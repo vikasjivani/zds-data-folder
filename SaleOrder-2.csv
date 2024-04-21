@@ -1,0 +1,149 @@
+"Carrier";"Expected realisation date";"Periodicity type";"Main/Invoicing address";"Delivery conditions";"Delivery address";"Next invoicing end period date";"Estimated shipping date";"Id";"Invoiced partner";"Group products on printings";"Opportunity";"Tax number";"Updated on";"Total cost in company currency";"Estimated delivery date";"Version";"Attributes";"Print subtotal per line";"Customer reference";"Delivery partner";"Template";"End of current contract period";"Confirmation date";"Internal Number";"Stock location";"Timetable computation date";"Advance Payments";"Created by interco";"Period duration";"Contract period in months";"Created on";"Comment to display on proforma";"Archived";"Timetable";"Schedule line list";"Cancel Reason";"Is ISPM 15 required";"Currency";"Customer contact";"Cancel reason";"Last reminder";"Total cost price";"Trading name";"To invoice via task";"Blocked";"Comment";"Stock moves";"Hide Discount on prints";"Team";"Company bank";"Status";"Standard delay (days)";"Import ID";"Specific notes";"Manual Unblock";"Internal note";"Comment to display on picking order";"Fiscal position";"Tax Lines";"Order Number";"Is certificate of conformity required";"Total W.T.";"Advance payment total";"Total tax";"Project";"Gross Profit";"One-off sale";"Notice period in days";"Production note";"Comment to display on invoice";"Freight carrier mode";"Tacit agreement";"Total A.T.I.";"Process instance";"Order being edited";"Updated by";"Markup (%)";"Contract start date";"Subscription text to display";"Next invoicing date";"Creation date";"Advance payment amount needed";"Main/Invoicing address";"Sale order lines";"Template created by";"Customer";"Electronic signature";"Incoterm";"Type";"End of validity";"Order Date";"Timetable template";"Amount to be spread over the timetable";"Imported from";"Comment to display";"Forwarder";"In ATI";"Title";"Batchs";"Price list";"Validity duration";"Margin (%)";"Printing settings";"To stock location";"Direct order";"Company";"Delivery address";"Date of shipment";"Accounted Revenue";"Next invoicing start period date";"Comment";"Payment condition";"Payment mode";"Specific package";"Contract end date";"Full name";"Total W.T.";"Shipment mode";"Salesperson";"Version Number";"Amount invoiced W.T.";"Confirmed by";"Created by";"Advance payment needed";"Delivery State";"Interco";"Comment to display on delivery"
+;;"Month";"M M
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"3";;"false";;;"2023-06-18T07:36:07.394689";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T07:36:07.374510";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0006 - m m";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"M M
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"m m";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, NY 123
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"4";;"false";;;"2023-06-18T07:40:45.599757";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T07:40:45.569729";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, NY 123
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"5";;"false";;;"2023-06-18T07:58:58.604580";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T07:58:58.585378";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"6";;"false";;;"2023-06-18T07:59:08.310054";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T07:59:08.297989";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"7";;"false";;;"2023-06-18T08:00:06.037308";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:00:05.978707";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"8";;"false";;;"2023-06-18T08:00:54.576370";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:00:54.557973";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"9";;"false";;;"2023-06-18T08:02:07.766371";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:02:07.752083";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"10";;"false";;;"2023-06-18T08:03:48.621288";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:03:48.611158";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"11";;"false";;;"2023-06-18T08:04:02.180227";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:04:02.168490";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"12";;"false";;;"2023-06-18T08:05:04.522310";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:05:04.501489";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"13";;"false";;;"2023-06-18T08:05:33.158625";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:05:33.137480";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Killer Smilez";"E E
+e
+e, EGALX E
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"M M
+st
+city, stAll 1234
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"14";;"false";;;"2023-06-18T08:16:55.929953";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:16:55.897508";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"M M
+st
+city, stAll 1234
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"TEST NAME
+st_2
+city_name, st_2All 12345
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"15";;"false";;;"2023-06-18T08:18:17.215616";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:18:17.186591";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"TEST NAME
+st_2
+city_name, st_2All 12345
+UNITED STATES OF AMERICA";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"TEST NAME
+st_2
+city, st_2All 12345
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"16";;"false";;;"2023-06-18T08:52:06.519785";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:52:06.495295";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"250.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"TEST NAME - 1234567890_2
+ste_2
+cityy_2, st_2All_2 12345
+USA";;"139.00";;;;;;;"e e";"250.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"TEST NAME
+st_2
+city, st_2All 12345
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"17";;"false";;;"2023-06-18T08:57:44.903453";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T08:57:44.878896";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"282.95";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"TEST NAME_2 - 1234567890_2
+ste_2
+cityy_2, st_2All_2 12345
+USA";;"139.00";;;;;;;"e e";"248.20";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"TEST NAME
+st_2
+city, st_2All 12345
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"18";;"false";;;"2023-06-18T09:34:29.425739";"0.00";;"2";;"false";;;"false";;;;;;;"false";"1";"0";"2023-06-18T09:00:19.208248";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"34.75";;"0.00";"false";"0";;;;"false";"282.95";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"true";"Z Dental, Inc.";"TEST NAME_2 - 1234567890_2
+ste_2
+cityy_2, st_2All_2 12345
+USA";;"139.00";;;;;;;"e e";"248.20";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"TEST NAME
+st_2
+city, st_2All 12345
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"19";;"false";;;"2023-06-18T09:33:08.624168";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T09:33:08.559320";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order completed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"248.20";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"TEST NAME_2 - 1234567890_2
+ste_2
+cityy_2, st_2All_2 12345
+USA";;"139.00";;;;;;;"e e";"248.20";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"TEST NAME
+st_2
+city, st_2All 12345
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"20";;"false";;;"2023-06-19T17:14:10.225034";"0.00";;"2";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T09:42:40.840757";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";"Remember to change this field to independent edit. Meaning not have to click on click sales order at the top menu.";;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"248.20";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"TEST NAME_2 - 1234567890_2
+ste_2
+cityy_2, st_2All_2 12345
+USA";;"323.32";;;;;;;"e e";"248.20";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"TEST NAME
+st_2
+city, st_2All 12345
+UNITED STATES OF AMERICA";;"e, e, EGALX E";;;"20";;"false";;;"2023-06-19T17:14:10.225034";"0.00";;"2";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T09:42:40.840757";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";"Remember to change this field to independent edit. Meaning not have to click on click sales order at the top menu.";;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"248.20";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"TEST NAME_2 - 1234567890_2
+ste_2
+cityy_2, st_2All_2 12345
+USA";;"323.32";;;;;;;"e e";"248.20";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St,, function toUpperCase() { [native code] }, AZ 85225";;"e, e, EGALX E";;;"21";;"false";;;"2023-06-18T14:29:41.368521";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T14:29:41.300458";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"256.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St, function toUpperCase() { [native code] }, AZ 85225";;"278.00";;;;;;;"e e";"256.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St,, function toUpperCase() { [native code] }, AZ 85225";;"e, e, EGALX E";;;"21";;"false";;;"2023-06-18T14:29:41.368521";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T14:29:41.300458";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"256.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St, function toUpperCase() { [native code] }, AZ 85225";;"278.00";;;;;;;"e e";"256.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St,, function toUpperCase() { [native code] }, AZ 85225";;"e, e, EGALX E";;;"22";;"false";;;"2023-06-18T14:31:44.568569";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T14:31:44.549808";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"256.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St, function toUpperCase() { [native code] }, AZ 85225";;"322.56";;;;;;;"e e";"256.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St,, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"23";;"false";;;"2023-06-18T14:32:54.002540";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T14:32:53.985186";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"256.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St, CHANDLER, AZ 85225";;"322.56";;;;;;;"e e";"256.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St,, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"24";;"false";;;"2023-06-18T14:47:16.434311";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T14:47:16.417547";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"256.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St_2, CHANDLER_2, AZ_2 85226";;"322.56";;;;;;;"e e";"256.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"e, E, EGALX E";;"e, e, EGALX E";;;"25";;"false";;;"2023-06-18T15:02:19.576388";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T15:02:19.552969";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"e, E, EGALX E";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"e, E, EGALX E";;"e, e, EGALX E";;;"26";;"false";;;"2023-06-18T15:03:19.285892";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T15:03:19.243532";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"e, E, EGALX E";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"e, E, EGALX E";;"e, e, EGALX E";;;"27";;"false";;;"2023-06-18T15:03:38.640372";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-18T15:03:38.627038";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"139.00";;"false";"Admin";"0.00";;;;"2023-06-18";"0.00";"e, e, EGALX E";"-The Recovery System - Inflatable";;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"e, E, EGALX E";;"139.00";;;;;;;"e e";"139.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"31";;"false";;;"2023-06-19T12:35:07.858734";"0.00";;"1";;"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-19T12:35:07.759859";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order completed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"256.00";;"false";"Admin";"0.00";;;;"2020-03-03";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St_2, CHANDLER_2, AZ_2 85226";;"46.08";;;;;;;"e e";"256.00";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"38";;"false";;;"2023-06-19T13:04:48.761059";"0.00";;"1";"{""woocommerceOrder"": ""223"", ""woocommerceOrderLink"": ""https://myzsonic.com/wp-admin/post.php?post=32486&action=edit""}";"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-19T13:04:48.740023";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"255.67";;"false";"Admin";"0.00";;;;"2020-03-03";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St_2, CHANDLER_2, AZ_2 85226";;"46.08";;;;;;;"e e";"255.67";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"39";;"false";;;"2023-06-19T13:06:27.674306";"0.00";;"1";"{""woocommerceOrder"": ""222"", ""woocommerceOrderLink"": ""https://myzsonic.com/wp-admin/post.php?post=32486&action=edit""}";"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-19T13:06:27.659190";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Canceled";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"255.67";;"false";"Admin";"0.00";;;;"2020-03-03";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St_2, CHANDLER_2, AZ_2 85226";;"230.40";;;;;;;"e e";"255.67";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"40";;"false";;;"2023-06-19T13:14:18.272429";"0.00";;"1";"{""woocommerceOrder"": ""2"", ""woocommerceOrderLink"": ""https://myzsonic.com/wp-admin/post.php?post=32486&action=edit""}";"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-19T13:14:18.259467";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Canceled";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"255.67";;"false";"Admin";"0.00";;;;"2020-03-03";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St_2, CHANDLER_2, AZ_2 85226";;"230.40";;;;;;;"e e";"255.67";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"41";;"false";;;"2023-06-19T13:15:27.231960";"0.00";;"1";"{""woocommerceOrder"": ""2203"", ""woocommerceOrderLink"": ""https://myzsonic.com/wp-admin/post.php?post=32486&action=edit""}";"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-19T13:15:27.219348";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order completed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"255.67";;"false";"Admin";"0.00";;;;"2020-03-03";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St_2, CHANDLER_2, AZ_2 85226";;"230.40";;;;;;;"e e";"255.67";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St, CHANDLER, AZ 85225";;"e, e, EGALX E";;;"42";;"false";;;"2023-06-19T13:17:56.107770";"0.00";;"1";"{""woocommerceOrder"": ""203"", ""woocommerceOrderLink"": ""https://myzsonic.com/wp-admin/post.php?post=32486&action=edit""}";"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-19T13:17:56.073654";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";;;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"255.67";;"false";"Admin";"0.00";;;;"2020-06-03";"0.00";"e, e, EGALX E";"-TP85";;"P0005 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St_2, CHANDLER_2, AZ_2 85226";;"230.40";;;;;;;"e e";"255.67";;;"1";"0.00";"Admin";"Admin";"false";"Not delivered";"false";
+;;"Month";"3280 N Colorado St, CHANDLER, AZ 85225";;;;;"46";;"false";;;"2023-06-19T14:54:14.731725";"0.00";;"1";"{""woocommerceOrder"": ""34"", ""woocommerceOrderLink"": ""https://myzsonic.com/wp-admin/post.php?post=32486&action=edit""}";"false";;;"false";;;;"stock";;;"false";"1";"0";"2023-06-19T14:35:55.837312";;;;;;"false";"US Dollar";;;;"0.00";;"false";"false";;;"false";;;"Order confirmed";"0";"1";;"false";;;;;;"false";"0.00";"0.00";"0.00";;"0.00";"false";"0";;;;"false";"197.00";;"false";"Admin";"0.00";;;;"2022-12-23";"0.00";;;;"P0004 - e e";;;"Standard";;;;"0.00";;;;"false";;;;;"0.00";;;"false";"Z Dental, Inc.";"3280 N Colorado St, CHANDLER, AZ 85225";;"0.00";;;;;;;;"197.00";;;"1";"0.00";;"Admin";"false";"Not delivered";"false";

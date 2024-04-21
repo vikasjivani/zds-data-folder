@@ -1,0 +1,3 @@
+importId,address_importId,isDefaultAddr,isDeliveryAddr,isInvoicingAddr
+JamieMcCarty-PAD-0,Jamie McCarty-address-0,true,false,false
+JamieMcCarty-PAD-1,Jamie McCarty-address-1,false,true,false

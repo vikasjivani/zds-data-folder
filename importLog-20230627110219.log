@@ -1,0 +1,7 @@
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.axelor.apps.base.db.Partner] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='must not be null', propertyPath=name, rootBeanClass=class com.axelor.apps.base.db.Partner, messageTemplate='{javax.validation.constraints.NotNull.message}'}
+]
+Total : 1 - Succeeded : 0 - Not null : 0
+Generated anomalies :1

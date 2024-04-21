@@ -1,0 +1,138 @@
+"importId","code","name","accountType.name","company.code","description"
+1,"Woocommerce Clearing","Woocommerce Clearing","Bank","KS",
+2,11100,"11100 · Company Checking Account","Bank","KS","Company Checking Account"
+3,11200,"11200 · Company Savings Account","Bank","KS",
+4,11400,"11400 · Petty Cash Account","Bank","KS",
+5,11600,"11600 · Payroll Clearing","Bank","KS","May Not be Needed"
+6,12100,"12100 · Accounts Receivable","Accounts Receivable","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+7,"Cost Variance","Cost Variance","Other Current Asset","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+8,11210,"11210 · Inventory Asset","Other Current Asset","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+9,12000,"12000 · Undeposited Funds","Other Current Asset","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+10,12101,"12101 · *Inventory Asset","Other Current Asset","KS","Costs of inventory purchased for resale"
+11,12500,"12500 · Prepaids","Other Current Asset","KS",
+12,12520,"12520 · Prepaid Taxes","Other Current Asset","KS",
+13,12550,"12550 · Prepaid Insurance","Other Current Asset","KS",
+14,13100,"13100 · Employee Advances","Other Current Asset","KS",
+15,13300,"13300 · Security Deposits","Other Current Asset","KS",
+16,"Capital Equipment","Capital Equipment","Fixed Asset","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+17,15000,"15000 · Furniture and Equipment","Fixed Asset","KS","Furniture and equipment with useful life exceeding one year"
+18,15100,"15100 · Automobiles & Trucks","Fixed Asset","KS",
+19,15200,"15200 · Computer & Office Equipment","Fixed Asset","KS",
+20,15300,"15300 · Machinery & Equipment","Fixed Asset","KS",
+21,16300,"16300 · Tractors and Trailers","Fixed Asset","KS","Tractors, trailers, and other delivery vehicles"
+22,16500,"16500 · Warehouse Equipment","Fixed Asset","KS","Shelving (not permanently attached), forklifts, and other warehouse equipment"
+23,17000,"17000 · Accumulated Depreciation","Fixed Asset","KS","Accumulated depreciation on equipment, buildings and improvements"
+24,20100,"20100 · Accounts Payable","Accounts Payable","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+25,20500,"20500 · QuickBooks Credit Card","Credit Card","KS",
+26,"Shipping Accrual","Shipping Accrual","Other Current Liability","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+27,21000,"21000 · Payroll Liabilities","Other Current Liability","KS","Unpaid payroll liabilities. Amounts withheld or accrued, but not yet paid"
+28,21100,"21100 · SEC125 Payable","Other Current Liability","KS",
+29,21200,"21200 · 401K Payable","Other Current Liability","KS",
+30,21300,"21300 · Payroll Taxes Payable","Other Current Liability","KS",
+31,22000,"22000 · Customer Deposits","Other Current Liability","KS",
+32,24100,"24100 · Line of Credit","Other Current Liability","KS",
+33,25500,"25500 · Sales Tax Payable","Other Current Liability","KS","Unpaid sales taxes. Amounts charged on sales, but not yet paid to the government"
+34,24600,"24600 · Auto Loan","Long Term Liability","KS",
+35,30000,"30000 · Opening Balance Equity","Equity","KS","Opening balances during setup post to this account. The balance of this account should be zero after completing your setup"
+36,30010,"30010 · Opening Bal Equity","Equity","KS",
+37,30700,"30700 · Members Draw","Equity","KS","Monies taken out of the business by the member"
+38,31000,"31000 · Owner's Equity","Equity","KS",
+39,31100,"31100 · Owner Investment","Equity","KS","Owner's Investment"
+40,31200,"31200 · Owner Draws","Equity","KS","Owner's Draws"
+41,31300,"31300 · Owner's Time to Jobs","Equity","KS","Owner's Time to Jobs"
+42,32000,"32000 · Members Equity","Equity","KS","Monies invested in the business by the member, and profits kept in company accounts"
+43,39000,"39000 · Retained Earnings","Equity","KS",
+44,"Discount Income","Discount Income","Income","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+45,"Sales Retail","Sales Retail","Income","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+46,"Shipping Income","Shipping Income","Income","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+47,41000,"41000 · Revenue","Income","KS",
+48,47900,"47900 · Sales Discounts","Income","KS","Gross receipts from sales"
+49,48000,"48000 · Vendor Refunds","Income","KS",
+50,48900,"48900 · Shipping and Delivery Income","Income","KS","Freight and delivery income"
+51,49900,"49900 · Misc. Revenue","Income","KS",
+52,"Inventory Adjustment","Inventory Adjustment","Cost of Goods Sold","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+53,50000,"50000 · Cost of Goods Sold","Cost of Goods Sold","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+54,51000,"51000 · Cost of Goods","Cost of Goods Sold","KS",
+55,51200,"51200 · Direct Labor","Cost of Goods Sold","KS",
+56,51300,"51300 · Wages - Sales-Inside","Cost of Goods Sold","KS",
+57,51500,"51500 · Wage-Warehouse","Cost of Goods Sold","KS",
+58,51800,"51800 · Merchant Account Fees","Cost of Goods Sold","KS","Credit card merchant account discount fees, transaction fees, and related costs"
+59,52000,"52000 · Sales Commission (outside reps)","Cost of Goods Sold","KS",
+60,53000,"53000 · Packaging Materials","Cost of Goods Sold","KS",
+61,55000,"55000 · Freight Costs","Cost of Goods Sold","KS","Costs of freight and delivery for merchandise purchased"
+62,"Discount Expense","Discount Expense","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+63,"Internal Use","Internal Use","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+64,"Labor","Labor","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+65,"Merchant deposit fees","Merchant deposit fees","Expense","KS",
+66,"Miscellaneous","Miscellaneous","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+67,"Non-Inventory","Non-Inventory","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+68,"Overhead","Overhead","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+69,"Scrapped Inventory","Scrapped Inventory","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+70,"Service","Service","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+71,"Shipping Expense","Shipping Expense","Expense","KS","DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY."
+72,60000,"60000 · Advertising and Promotion","Expense","KS","Advertising, marketing, graphic design, and other promotional expenses"
+73,60100,"60100 · Auto and Truck Expenses","Expense","KS","Fuel, oil, repairs, and other automobile maintenance for business autos and trucks"
+74,61000,"61000 · Advertising Expense","Expense","KS",
+75,61150,"61150 · Bank Service Charges","Expense","KS","Bank account service fees, bad check charges and other bank fees"
+76,61200,"61200 · Business License & Fees","Expense","KS",
+77,61300,"61300 · Car/Truck Expense","Expense","KS","Automobile Expense"
+78,61310,"61310 · Car Lease","Expense","KS",
+79,61320,"61320 · Gas","Expense","KS","Automobile Gas & Oil"
+80,61340,"61340 · Repairs & Maintenance","Expense","KS",
+81,61350,"61350 · Mileage","Expense","KS",
+82,61360,"61360 · Registration & License","Expense","KS",
+83,61380,"61380 · Insurance-Auto","Expense","KS",
+84,61400,"61400 · Conferences and Seminars","Expense","KS",
+85,61450,"61450 · Contributions","Expense","KS","Contributions"
+86,61500,"61500 · Depreciation Expense","Expense","KS","Depreciation on equipment, buildings and improvements"
+87,61550,"61550 · Dues and Subscriptions","Expense","KS","Dues and Subscriptions"
+88,61700,"61700 · Computer and Internet Expenses","Expense","KS","Computer supplies, off-the-shelf software, online fees, and other computer or internet related expenses"
+89,61800,"61800 · Insurance","Expense","KS","Insurance"
+90,61810,"61810 · Disability Insurance","Expense","KS","Disability Insurance"
+91,61820,"61820 · Life Insurance","Expense","KS","Life Insurance"
+92,61850,"61850 · Owner's Health Insurance","Expense","KS",
+93,61860,"61860 · Professional Liability Insuranc","Expense","KS","Professional Liab Insurance"
+94,61880,"61880 · General Liability Insurance","Expense","KS","Gen'l Liability Insurance"
+95,61890,"61890 · Worker's Compensation","Expense","KS","Workman's Compensation"
+96,62360,"62360 · Maintenance/Janitorial","Expense","KS",
+97,62380,"62380 · Marketing Expense","Expense","KS",
+98,62400,"62400 · Meals and Entertainment","Expense","KS","Business meals and entertainment expenses, including travel-related meals (may have limited deductibility)"
+99,62500,"62500 · Office Equipment","Expense","KS",
+100,62550,"62550 · Postage and Delivery","Expense","KS","Postage and Delivery"
+101,62650,"62650 · Printing and Reproduction","Expense","KS","Printing, copies, and other reproduction expenses"
+102,62700,"62700 · Professional Development","Expense","KS","Professional Development"
+103,62750,"62750 · Professional Fees","Expense","KS","Payments to accounting professionals and attorneys for accounting or legal services"
+104,62760,"62760 · Legal Fees","Expense","KS","Legal Fees"
+105,62770,"62770 · Accounting Fees","Expense","KS","Accounting Fees"
+106,62780,"62780 · Payroll Service Fees","Expense","KS","Payroll Service Fees"
+107,62800,"62800 · Promotional Expense","Expense","KS",
+108,62950,"62950 · Rent","Expense","KS","Rent"
+109,63000,"63000 · Repairs","Expense","KS","Repairs and Maintenance"
+110,63020,"63020 · Computer Repairs","Expense","KS","Computer Repairs"
+111,63040,"63040 · Equipment Repairs","Expense","KS","Equipment Repairs"
+112,63100,"63100 · Supplies","Expense","KS","Supplies"
+113,63200,"63200 · Telephone","Expense","KS","Telephone"
+114,63300,"63300 · Insurance Expense","Expense","KS","Insurance expenses"
+115,63350,"63350 · Travel","Expense","KS",
+116,63400,"63400 · Interest Expense","Expense","KS","Interest payments on business loans, credit card balances, or other business debt"
+117,64900,"64900 · Office Supplies","Expense","KS","Office supplies expense"
+118,65000,"65000 · Wages","Expense","KS",
+119,65100,"65100 · Wages - Office Staff","Expense","KS",
+120,65140,"65140 · Payroll Tax Expenses","Expense","KS",
+121,65160,"65160 · Employee Benefits","Expense","KS",
+122,65170,"65170 · Employee Bonus","Expense","KS",
+123,65180,"65180 · Sick/Holiday & Vacation Pay","Expense","KS",
+124,66000,"66000 · Payroll Expenses","Expense","KS","Payroll expenses"
+125,67100,"67100 · Rent Expense","Expense","KS","Rent paid for company offices or other structures used in the business"
+126,67200,"67200 · Repairs and Maintenance","Expense","KS","Incidental repairs and maintenance of business assets that do not add to the value or appreciably prolong its life"
+127,68000,"68000 · Taxes - Property","Expense","KS","Taxes paid on property owned by the business, franchise taxes, excise taxes, etc."
+128,68100,"68100 · Telephone Expense","Expense","KS","Telephone and long distance charges, faxing, and other fees Not equipment purchases"
+129,68400,"68400 · Travel Expense","Expense","KS","Business-related travel expenses including airline tickets, taxi fares, hotel and other travel expenses"
+130,69700,"69700 · Utilities","Expense","KS","Water, electricity, garbage, and other basic utilities expenses"
+131,81000,"81000 · Interest Income","Other Income","KS",
+132,82000,"82000 · Early Payment Discounts","Other Income","KS","Early Payment Discounts"
+133,80000,"80000 · Ask My Accountant","Other Expense","KS","Transactions to be discussed with accountant, consultant, or tax preparer"
+134,90000,"90000 · Other Expense","Other Expense","KS",
+135,90001,"90001 · Estimates","Non-Posting","KS","Estimates for jobs or projects. Customer proposals for work to be done, or items to be sold upon customer acceptance of the estimate"
+136,90100,"90100 · Purchase Orders","Non-Posting","KS","Purchase orders specifying items ordered from vendors"
+137,90200,"90200 · Sales Orders","Non-Posting","KS","Orders from customers to be filled, work to be performed, or items to be shipped"

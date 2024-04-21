@@ -1,0 +1,11 @@
+
+com.google.common.util.concurrent.UncheckedExecutionException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script1.groovy: 1: unable to resolve class sequence
+ @ line 1, column 1.
+   partnerSeq_importId as sequence
+   ^
+
+1 error
+
+Total : 1 - Succeeded : 0 - Not null : 0
+Generated anomalies :1

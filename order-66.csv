@@ -1,0 +1,4 @@
+importId,currency.id,mainInvoicingAddressStr,deliveryAddressStr,company.id,clientPartner.name,creationDate,statusSelect,exTaxTotal,taxTotal,inTaxTotal,attrs,saleOrderLineListImportId,flag
+4250,148,"# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307","STE 140
+1011 TUNNEL RD, ASHEVILLE, NC 28805-2059",1,Source1- Allison White,2023-02-21,4,0,0,0,"{""soNum"":""4250"",""cfiWooCommerceOrderItemIdentity1"":""UNITED STATES"",""cfiWooCommerceOrderItemIdentity2"":""FALSE"",""carrierName"":""USPS"",""taxRateName"":""None"",""poNum"":""NC1985830025"",""salesman"":""Ernesto"",""shippingTerms"":""Prepaid & Billed"",""paymentTerms"":""COD"",""fob"":""Origin"",""quickBooksClassName"":""Z Dental"",""locationGroupName"":""Main"",""carrierService"":""Flat Rate"",""cfAetnaMember"":false,""cfAetnaBulk"":false,""cfShippedByPitneyBowes"":false,""taxCod"":""AZ""}",4250/130-STC-01-TS,SO

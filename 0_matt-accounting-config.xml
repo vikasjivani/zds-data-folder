@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csv-inputs xmlns="http://axelor.com/xml/ns/data-import"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://axelor.com/xml/ns/data-import http://axelor.com/xml/ns/data-import/data-import_5.0.xsd">
+  
+
+    
+    <input file="1_account_type.csv" separator="," type="com.axelor.apps.account.db.AccountType" search="self.importId = :importId" />
+    
+    <input file="2_account.csv" separator="," type="com.axelor.apps.account.db.Account" search="self.importId = :importId" />
+    
+    <input file="3_account_journal_type.csv" separator="," type="com.axelor.apps.account.db.JournalType" search="self.importId = :importId" />
+    
+    <input file="MoveLine-test.csv" separator="," type="com.axelor.apps.account.db.MoveLine" search="self.importId = :importId" />
+    
+   <input file="Move-test.csv" separator="," type="com.axelor.apps.account.db.Move" search="self.importId = :importId" /> 
+
+<!-- 
+    <input file="Move-test.csv" separator="," type="com.axelor.apps.account.db.Move" search="self.importId = :importId" >
+	<bind to="moveLineList" column="moveLineList" search="self.importId in :moveLineList" eval="moveLineList.split('\\|') as List"/>
+    </input>	
+ 
+--> 
+    
+</csv-inputs>
+
+
+

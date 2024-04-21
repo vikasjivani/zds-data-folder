@@ -1,0 +1,2315 @@
+<csv-inputs>
+  <input file="AccountChart.csv" type="com.axelor.apps.account.db.AccountChart" search="self.code = :code" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AccountingReportType.csv" type="com.axelor.apps.account.db.AccountingReportType" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AccountingSituation.csv" type="com.axelor.apps.account.db.AccountingSituation" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AnalyticLevel.csv" type="com.axelor.apps.account.db.AnalyticLevel" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AssetDisposalReason.csv" type="com.axelor.apps.account.db.AssetDisposalReason" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="FixedAssetType.csv" type="com.axelor.apps.account.db.FixedAssetType" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Tax.csv" type="com.axelor.apps.account.db.Tax" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="TaxLine.csv" type="com.axelor.apps.account.db.TaxLine" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="BankOrderFileFormat.csv" type="com.axelor.apps.bankpayment.db.BankOrderFileFormat" search="self.name = :name" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="BankStatementFileFormat.csv" type="com.axelor.apps.bankpayment.db.BankStatementFileFormat" search="self.name = :name" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="BankStatementQuery.csv" type="com.axelor.apps.bankpayment.db.BankStatementQuery" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Address.csv" type="com.axelor.apps.base.db.Address" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AdvancedExportLine.csv" type="com.axelor.apps.base.db.AdvancedExportLine" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="App.csv" type="com.axelor.apps.base.db.App" search="self.code = :code" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppAccount.csv" type="com.axelor.apps.base.db.AppAccount" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppAppraisal.csv" type="com.axelor.apps.base.db.AppAppraisal" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppBankPayment.csv" type="com.axelor.apps.base.db.AppBankPayment" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppBase.csv" type="com.axelor.apps.base.db.AppBase" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppBpm.csv" type="com.axelor.apps.base.db.AppBpm" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppBudget.csv" type="com.axelor.apps.base.db.AppBudget" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppBusinessProject.csv" type="com.axelor.apps.base.db.AppBusinessProject" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppBusinessSupport.csv" type="com.axelor.apps.base.db.AppBusinessSupport" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppCashManagement.csv" type="com.axelor.apps.base.db.AppCashManagement" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppContract.csv" type="com.axelor.apps.base.db.AppContract" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppCrm.csv" type="com.axelor.apps.base.db.AppCrm" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppEmployee.csv" type="com.axelor.apps.base.db.AppEmployee" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppExpense.csv" type="com.axelor.apps.base.db.AppExpense" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppExtraHours.csv" type="com.axelor.apps.base.db.AppExtraHours" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppFleet.csv" type="com.axelor.apps.base.db.AppFleet" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppHelpdesk.csv" type="com.axelor.apps.base.db.AppHelpdesk" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppInvoice.csv" type="com.axelor.apps.base.db.AppInvoice" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppLeave.csv" type="com.axelor.apps.base.db.AppLeave" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppMaintenance.csv" type="com.axelor.apps.base.db.AppMaintenance" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppMarketing.csv" type="com.axelor.apps.base.db.AppMarketing" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppMobile.csv" type="com.axelor.apps.base.db.AppMobile" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppPortal.csv" type="com.axelor.apps.base.db.AppPortal" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppProduction.csv" type="com.axelor.apps.base.db.AppProduction" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppProject.csv" type="com.axelor.apps.base.db.AppProject" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppPurchase.csv" type="com.axelor.apps.base.db.AppPurchase" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppPurchaseRequest.csv" type="com.axelor.apps.base.db.AppPurchaseRequest" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppQuality.csv" type="com.axelor.apps.base.db.AppQuality" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppRecruitment.csv" type="com.axelor.apps.base.db.AppRecruitment" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppSale.csv" type="com.axelor.apps.base.db.AppSale" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppStock.csv" type="com.axelor.apps.base.db.AppStock" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppSupplierPortal.csv" type="com.axelor.apps.base.db.AppSupplierPortal" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppSupplychain.csv" type="com.axelor.apps.base.db.AppSupplychain" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppTimesheet.csv" type="com.axelor.apps.base.db.AppTimesheet" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AppTraining.csv" type="com.axelor.apps.base.db.AppTraining" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="BarcodeTypeConfig.csv" type="com.axelor.apps.base.db.BarcodeTypeConfig" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="BirtTemplate.csv" type="com.axelor.apps.base.db.BirtTemplate" search="self.name = :name" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="BirtTemplateParameter.csv" type="com.axelor.apps.base.db.BirtTemplateParameter" search="self.name = :name" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="CancelReason.csv" type="com.axelor.apps.base.db.CancelReason" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="City.csv" type="com.axelor.apps.base.db.City" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Company.csv" type="com.axelor.apps.base.db.Company" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Country.csv" type="com.axelor.apps.base.db.Country" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Currency.csv" type="com.axelor.apps.base.db.Currency" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="DataConfigLine.csv" type="com.axelor.apps.base.db.DataConfigLine" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="FakerApiField.csv" type="com.axelor.apps.base.db.FakerApiField" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Language.csv" type="com.axelor.apps.base.db.Language" search="self.code = :code" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="ObjectDataConfig.csv" type="com.axelor.apps.base.db.ObjectDataConfig" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Partner.csv" type="com.axelor.apps.base.db.Partner" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="PartnerAddress.csv" type="com.axelor.apps.base.db.PartnerAddress" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="PrintingSettings.csv" type="com.axelor.apps.base.db.PrintingSettings" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Product.csv" type="com.axelor.apps.base.db.Product" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Sequence.csv" type="com.axelor.apps.base.db.Sequence" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="SequenceVersion.csv" type="com.axelor.apps.base.db.SequenceVersion" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Unit.csv" type="com.axelor.apps.base.db.Unit" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="ForecastRecapLineType.csv" type="com.axelor.apps.cash.management.db.ForecastRecapLineType" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="EventCategory.csv" type="com.axelor.apps.crm.db.EventCategory" search="self.code = :code" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Lead.csv" type="com.axelor.apps.crm.db.Lead" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Opportunity.csv" type="com.axelor.apps.crm.db.Opportunity" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="OpportunityType.csv" type="com.axelor.apps.crm.db.OpportunityType" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="EmailAddress.csv" type="com.axelor.apps.message.db.EmailAddress" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Template.csv" type="com.axelor.apps.message.db.Template" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="TemplateContext.csv" type="com.axelor.apps.message.db.TemplateContext" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="ProjectPriority.csv" type="com.axelor.apps.project.db.ProjectPriority" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="ProjectStatus.csv" type="com.axelor.apps.project.db.ProjectStatus" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="PurchaseOrderLine.csv" type="com.axelor.apps.purchase.db.PurchaseOrderLine" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="PurchaseOrderLineTax.csv" type="com.axelor.apps.purchase.db.PurchaseOrderLineTax" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="SaleOrderLine.csv" type="com.axelor.apps.sale.db.SaleOrderLine" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="SaleOrderLineTax.csv" type="com.axelor.apps.sale.db.SaleOrderLineTax" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="MrpLineType.csv" type="com.axelor.apps.supplychain.db.MrpLineType" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="PartnerSupplychainLinkType.csv" type="com.axelor.apps.supplychain.db.PartnerSupplychainLinkType" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="StockMoveInvoicingBlockingReason.csv" type="com.axelor.apps.supplychain.db.StockMoveInvoicingBlockingReason" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="HiringStage.csv" type="com.axelor.apps.talent.db.HiringStage" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Group.csv" type="com.axelor.auth.db.Group" search="self.code = :code" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Permission.csv" type="com.axelor.auth.db.Permission" search="self.name = :name" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="Role.csv" type="com.axelor.auth.db.Role" search="self.name = :name" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="User.csv" type="com.axelor.auth.db.User" search="self.code = :code" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="TraceBack.csv" type="com.axelor.exception.db.TraceBack" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="MailMessage.csv" type="com.axelor.mail.db.MailMessage" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="MetaFile.csv" type="com.axelor.meta.db.MetaFile" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="MetaJsonField.csv" type="com.axelor.meta.db.MetaJsonField" search="self.importId = :importId" update="false">
+    <bindingsLinked>false</bindingsLinked>
+  </input>
+  <input file="AccountConfig.csv" type="com.axelor.apps.account.db.AccountConfig" search="self.importId = :importId" update="false">
+    <bind column="suppInvSequence_importId" to="suppInvSequence" search="self.importId = :suppInvSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defPaymentCondition_importId" to="defPaymentCondition" search="self.importId = :defPaymentCondition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="irrecoverableStandardRateTax_importId" to="irrecoverableStandardRateTax" search="self.importId = :irrecoverableStandardRateTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cashPositionVariationAccount_importId" to="cashPositionVariationAccount" search="self.importId = :cashPositionVariationAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="factorDebitAccount_importId" to="factorDebitAccount" search="self.importId = :factorDebitAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="expenseJournal_importId" to="expenseJournal" search="self.importId = :expenseJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseJournalType_importId" to="purchaseJournalType" search="self.importId = :purchaseJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="billOfExchReceivAccount_importId" to="billOfExchReceivAccount" search="self.importId = :billOfExchReceivAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierAccount_importId" to="supplierAccount" search="self.importId = :supplierAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoiceMessageTemplate_importId" to="invoiceMessageTemplate" search="self.importId = :invoiceMessageTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cashJournalType_importId" to="cashJournalType" search="self.importId = :cashJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="forecastedInvSuppAccount_importId" to="forecastedInvSuppAccount" search="self.importId = :forecastedInvSuppAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="employeeAccountSequence_importId" to="employeeAccountSequence" search="self.importId = :employeeAccountSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="irrecoverableAccount_importId" to="irrecoverableAccount" search="self.importId = :irrecoverableAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierPurchaseJournal_importId" to="supplierPurchaseJournal" search="self.importId = :supplierPurchaseJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="manualMiscOpeJournal_importId" to="manualMiscOpeJournal" search="self.importId = :manualMiscOpeJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerAccount_importId" to="customerAccount" search="self.importId = :customerAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="rejectionPaymentMode_importId" to="rejectionPaymentMode" search="self.importId = :rejectionPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="creditNoteJournalType_importId" to="creditNoteJournalType" search="self.importId = :creditNoteJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="advancePaymentProduct_importId" to="advancePaymentProduct" search="self.importId = :advancePaymentProduct_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="profitAccount_importId" to="profitAccount" search="self.importId = :profitAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierCreditNoteJournal_importId" to="supplierCreditNoteJournal" search="self.importId = :supplierCreditNoteJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierAdvancePaymentAccount_importId" to="supplierAdvancePaymentAccount" search="self.importId = :supplierAdvancePaymentAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleJournalType_importId" to="saleJournalType" search="self.importId = :saleJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="rejectPaymentScheduleTemplate_importId" to="rejectPaymentScheduleTemplate" search="self.importId = :rejectPaymentScheduleTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="custInvSequence_importId" to="custInvSequence" search="self.importId = :custInvSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="standardRateTax_importId" to="standardRateTax" search="self.importId = :standardRateTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="factorPartner_importId" to="factorPartner" search="self.importId = :factorPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="temporaryClosureAuthorizedRoleList_importId" to="temporaryClosureAuthorizedRoleList" search="self.importId in :temporaryClosureAuthorizedRoleList_importId" update="true" eval="temporaryClosureAuthorizedRoleList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="irrecoverableJournal_importId" to="irrecoverableJournal" search="self.importId = :irrecoverableJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="autoMiscOpeJournal_importId" to="autoMiscOpeJournal" search="self.importId = :autoMiscOpeJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cfonbConfig_importId" to="cfonbConfig" search="self.importId = :cfonbConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerCreditNoteJournal_importId" to="customerCreditNoteJournal" search="self.importId = :customerCreditNoteJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="yearOpeningAccount_importId" to="yearOpeningAccount" search="self.importId = :yearOpeningAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reimbursementJournal_importId" to="reimbursementJournal" search="self.importId = :reimbursementJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="custRefSequence_importId" to="custRefSequence" search="self.importId = :custRefSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="closureAuthorizedRoleList_importId" to="closureAuthorizedRoleList" search="self.importId in :closureAuthorizedRoleList_importId" update="true" eval="closureAuthorizedRoleList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerAccountSequence_importId" to="customerAccountSequence" search="self.importId = :customerAccountSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="clearanceAccountSet_importId" to="clearanceAccountSet" search="self.importId in :clearanceAccountSet_importId" update="true" eval="clearanceAccountSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoiceWatermark_importId" to="invoiceWatermark" search="self.importId = :invoiceWatermark_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="employeeAccount_importId" to="employeeAccount" search="self.importId = :employeeAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="expenseTaxAccount_importId" to="expenseTaxAccount" search="self.importId = :expenseTaxAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchFinancialDiscountAccount_importId" to="purchFinancialDiscountAccount" search="self.importId = :purchFinancialDiscountAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="holdBackSupplierAccount_importId" to="holdBackSupplierAccount" search="self.importId = :holdBackSupplierAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="rejectJournal_importId" to="rejectJournal" search="self.importId = :rejectJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="accountClearanceJournal_importId" to="accountClearanceJournal" search="self.importId = :accountClearanceJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="factorCreditAccount_importId" to="factorCreditAccount" search="self.importId = :factorCreditAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="forecastedInvCustAccount_importId" to="forecastedInvCustAccount" search="self.importId = :forecastedInvCustAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="outPaymentMode_importId" to="outPaymentMode" search="self.importId = :outPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoicingProduct_importId" to="invoicingProduct" search="self.importId = :invoicingProduct_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="moveOnTempClosureAuthorizedRoleList_importId" to="moveOnTempClosureAuthorizedRoleList" search="self.importId in :moveOnTempClosureAuthorizedRoleList_importId" update="true" eval="moveOnTempClosureAuthorizedRoleList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleFinancialDiscountTax_importId" to="saleFinancialDiscountTax" search="self.importId = :saleFinancialDiscountTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticJournal_importId" to="analyticJournal" search="self.importId = :analyticJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reportedBalanceJournal_importId" to="reportedBalanceJournal" search="self.importId = :reportedBalanceJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reimbursementAccount_importId" to="reimbursementAccount" search="self.importId = :reimbursementAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="accountChart_importId" to="accountChart" search="self.importId = :accountChart_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="inPaymentMode_importId" to="inPaymentMode" search="self.importId = :inPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchFinancialDiscountTax_importId" to="purchFinancialDiscountTax" search="self.importId = :purchFinancialDiscountTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="doubtfulCustomerAccount_importId" to="doubtfulCustomerAccount" search="self.importId = :doubtfulCustomerAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="advancePaymentAccount_importId" to="advancePaymentAccount" search="self.importId = :advancePaymentAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reimbursementTemplate_importId" to="reimbursementTemplate" search="self.importId = :reimbursementTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="holdBackCustomerAccount_importId" to="holdBackCustomerAccount" search="self.importId = :holdBackCustomerAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleFinancialDiscountAccount_importId" to="saleFinancialDiscountAccount" search="self.importId = :saleFinancialDiscountAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="suppRefSequence_importId" to="suppRefSequence" search="self.importId = :suppRefSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerSalesJournal_importId" to="customerSalesJournal" search="self.importId = :customerSalesJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="dasContactPartner_importId" to="dasContactPartner" search="self.importId = :dasContactPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="directDebitPaymentMode_importId" to="directDebitPaymentMode" search="self.importId = :directDebitPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="yearClosureAccount_importId" to="yearClosureAccount" search="self.importId = :yearClosureAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierAccountSequence_importId" to="supplierAccountSequence" search="self.importId = :supplierAccountSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AccountManagement.csv" type="com.axelor.apps.account.db.AccountManagement" search="self.importId = :importId" update="false">
+    <bind column="productFamily_importId" to="productFamily" search="self.importId = :productFamily_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="bankDetails_importId" to="bankDetails" search="self.importId = :bankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="journal_importId" to="journal" search="self.importId = :journal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseTax_importId" to="purchaseTax" search="self.importId = :purchaseTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="product_importId" to="product" search="self.importId = :product_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentMode_importId" to="paymentMode" search="self.importId = :paymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseAccount_importId" to="purchaseAccount" search="self.importId = :purchaseAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tax_importId" to="tax" search="self.importId = :tax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="sequence_importId" to="sequence" search="self.importId = :sequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="financialDiscountAccount_importId" to="financialDiscountAccount" search="self.importId = :financialDiscountAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="interbankCodeLine_importId" to="interbankCodeLine" search="self.importId = :interbankCodeLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cashAccount_importId" to="cashAccount" search="self.importId = :cashAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchFixedAssetsAccount_importId" to="purchFixedAssetsAccount" search="self.importId = :purchFixedAssetsAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleAccount_importId" to="saleAccount" search="self.importId = :saleAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleTax_importId" to="saleTax" search="self.importId = :saleTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticDistributionTemplate_importId" to="analyticDistributionTemplate" search="self.importId = :analyticDistributionTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fixedAssetCategory_importId" to="fixedAssetCategory" search="self.importId = :fixedAssetCategory_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="ImportFECType.csv" type="com.axelor.apps.account.db.ImportFECType" search="self.importId = :importId" update="false">
+    <bind column="bindMetaFile_importId" to="bindMetaFile" search="self.importId = :bindMetaFile_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AdvancedExport.csv" type="com.axelor.apps.base.db.AdvancedExport" search="self.importId = :importId" update="false">
+    <bind column="metaModel_name" to="metaModel" search="self.name = :metaModel_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="CurrencyConversionLine.csv" type="com.axelor.apps.base.db.CurrencyConversionLine" search="self.importId = :importId" update="false">
+    <bind column="endCurrency_importId" to="endCurrency" search="self.importId = :endCurrency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="startCurrency_importId" to="startCurrency" search="self.importId = :startCurrency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="appBase_importId" to="appBase" search="self.importId = :appBase_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="ImportConfiguration.csv" type="com.axelor.apps.base.db.ImportConfiguration" search="self.importId = :importId" update="false">
+    <bind column="bindMetaFile_importId" to="bindMetaFile" search="self.importId = :bindMetaFile_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="dataMetaFile_importId" to="dataMetaFile" search="self.importId = :dataMetaFile_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="user_importId" to="user" search="self.importId = :user_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="PurchaseOrder.csv" type="com.axelor.apps.purchase.db.PurchaseOrder" search="self.importId = :importId" update="false">
+    <bind column="project_importId" to="project" search="self.importId = :project_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierPartner_importId" to="supplierPartner" search="self.importId = :supplierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="freightCarrierMode_importId" to="freightCarrierMode" search="self.importId = :freightCarrierMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="budget_importId" to="budget" search="self.importId = :budget_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="buyerUser_importId" to="buyerUser" search="self.importId = :buyerUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxNumber_importId" to="taxNumber" search="self.importId = :taxNumber_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="validatedByUser_importId" to="validatedByUser" search="self.importId = :validatedByUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="stockLocation_importId" to="stockLocation" search="self.importId = :stockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="priceList_importId" to="priceList" search="self.importId = :priceList_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="printingSettings_importId" to="printingSettings" search="self.importId = :printingSettings_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="contactPartner_importId" to="contactPartner" search="self.importId = :contactPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="parentPurchaseOrder_importId" to="parentPurchaseOrder" search="self.importId = :parentPurchaseOrder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingName_importId" to="tradingName" search="self.importId = :tradingName_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fromStockLocation_importId" to="fromStockLocation" search="self.importId = :fromStockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentCondition_importId" to="paymentCondition" search="self.importId = :paymentCondition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentMode_importId" to="paymentMode" search="self.importId = :paymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="shipmentMode_importId" to="shipmentMode" search="self.importId = :shipmentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="team_importId" to="team" search="self.importId = :team_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companyBankDetails_importId" to="companyBankDetails" search="self.importId = :companyBankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fiscalPosition_importId" to="fiscalPosition" search="self.importId = :fiscalPosition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="SaleOrder.csv" type="com.axelor.apps.sale.db.SaleOrder" search="self.importId = :importId" update="false">
+    <bind column="carrierPartner_importId" to="carrierPartner" search="self.importId = :carrierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="deliveryAddress_importId" to="deliveryAddress" search="self.importId = :deliveryAddress_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoicedPartner_importId" to="invoicedPartner" search="self.importId = :invoicedPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="opportunity_importId" to="opportunity" search="self.importId = :opportunity_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxNumber_importId" to="taxNumber" search="self.importId = :taxNumber_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="deliveredPartner_importId" to="deliveredPartner" search="self.importId = :deliveredPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="stockLocation_importId" to="stockLocation" search="self.importId = :stockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="contactPartner_importId" to="contactPartner" search="self.importId = :contactPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cancelReason_importId" to="cancelReason" search="self.importId = :cancelReason_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingName_importId" to="tradingName" search="self.importId = :tradingName_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="stockMoveList_importId" to="stockMoveList" search="self.importId in :stockMoveList_importId" update="true" eval="stockMoveList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="team_importId" to="team" search="self.importId = :team_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companyBankDetails_importId" to="companyBankDetails" search="self.importId = :companyBankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fiscalPosition_importId" to="fiscalPosition" search="self.importId = :fiscalPosition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="project_importId" to="project" search="self.importId = :project_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="freightCarrierMode_importId" to="freightCarrierMode" search="self.importId = :freightCarrierMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mainInvoicingAddress_importId" to="mainInvoicingAddress" search="self.importId = :mainInvoicingAddress_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="templateUser_importId" to="templateUser" search="self.importId = :templateUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="clientPartner_importId" to="clientPartner" search="self.importId = :clientPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="electronicSignature_importId" to="electronicSignature" search="self.importId = :electronicSignature_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="incoterm_importId" to="incoterm" search="self.importId = :incoterm_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="timetableTemplate_importId" to="timetableTemplate" search="self.importId = :timetableTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="forwarderPartner_importId" to="forwarderPartner" search="self.importId = :forwarderPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="batchSet_importId" to="batchSet" search="self.importId in :batchSet_importId" update="true" eval="batchSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="priceList_importId" to="priceList" search="self.importId = :priceList_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="duration_importId" to="duration" search="self.importId = :duration_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="printingSettings_importId" to="printingSettings" search="self.importId = :printingSettings_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="toStockLocation_importId" to="toStockLocation" search="self.importId = :toStockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentCondition_importId" to="paymentCondition" search="self.importId = :paymentCondition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentMode_importId" to="paymentMode" search="self.importId = :paymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="shipmentMode_importId" to="shipmentMode" search="self.importId = :shipmentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="salespersonUser_importId" to="salespersonUser" search="self.importId = :salespersonUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="confirmedByUser_importId" to="confirmedByUser" search="self.importId = :confirmedByUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AccountChart.csv" type="com.axelor.apps.account.db.AccountChart" search="self.code = :code" update="false">
+    <bind column="companySet_importId" to="companySet" search="self.importId in :companySet_importId" update="true" eval="companySet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="metaFile_importId" to="metaFile" search="self.importId = :metaFile_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AccountingReportType.csv" type="com.axelor.apps.account.db.AccountingReportType" search="self.importId = :importId" update="false">
+    <bind column="template_importId" to="template" search="self.importId = :template_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="modelAccountingReport_importId" to="modelAccountingReport" search="self.importId = :modelAccountingReport_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AccountingSituation.csv" type="com.axelor.apps.account.db.AccountingSituation" search="self.importId = :importId" update="false">
+    <bind column="batchSet_importId" to="batchSet" search="self.importId in :batchSet_importId" update="true" eval="batchSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="pfpValidatorUser_importId" to="pfpValidatorUser" search="self.importId = :pfpValidatorUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="employeeAccount_importId" to="employeeAccount" search="self.importId = :employeeAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companyInBankDetails_importId" to="companyInBankDetails" search="self.importId = :companyInBankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoiceMessageTemplateOnValidate_importId" to="invoiceMessageTemplateOnValidate" search="self.importId = :invoiceMessageTemplateOnValidate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierAccount_importId" to="supplierAccount" search="self.importId = :supplierAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoiceMessageTemplate_importId" to="invoiceMessageTemplate" search="self.importId = :invoiceMessageTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultIncomeAccount_importId" to="defaultIncomeAccount" search="self.importId = :defaultIncomeAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companyOutBankDetails_importId" to="companyOutBankDetails" search="self.importId = :companyOutBankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partner_importId" to="partner" search="self.importId = :partner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultExpenseAccount_importId" to="defaultExpenseAccount" search="self.importId = :defaultExpenseAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerAccount_importId" to="customerAccount" search="self.importId = :customerAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Tax.csv" type="com.axelor.apps.account.db.Tax" search="self.importId = :importId" update="false">
+    <bind column="activeTaxLine_importId" to="activeTaxLine" search="self.importId = :activeTaxLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="TaxLine.csv" type="com.axelor.apps.account.db.TaxLine" search="self.importId = :importId" update="false">
+    <bind column="tax_importId" to="tax" search="self.importId = :tax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="BankOrderFileFormat.csv" type="com.axelor.apps.bankpayment.db.BankOrderFileFormat" search="self.name = :name" update="false">
+    <bind column="receiverCountry_importId" to="receiverCountry" search="self.importId = :receiverCountry_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="bankOrderEconomicReason_importId" to="bankOrderEconomicReason" search="self.importId = :bankOrderEconomicReason_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Address.csv" type="com.axelor.apps.base.db.Address" search="self.importId = :importId" update="false">
+    <bind column="city_importId" to="city" search="self.importId = :city_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="street_importId" to="street" search="self.importId = :street_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="addressL7Country_importId" to="addressL7Country" search="self.importId = :addressL7Country_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AdvancedExportLine.csv" type="com.axelor.apps.base.db.AdvancedExportLine" search="self.importId = :importId" update="false">
+    <bind column="metaField_name" to="metaField" search="self.name = :metaField_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="advancedExport_importId" to="advancedExport" search="self.importId = :advancedExport_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="App.csv" type="com.axelor.apps.base.db.App" search="self.code = :code" update="false">
+    <bind column="dependsOnSet_importId" to="dependsOnSet" search="self.importId in :dependsOnSet_importId" update="true" eval="dependsOnSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="image_importId" to="image" search="self.importId = :image_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppAccount.csv" type="com.axelor.apps.base.db.AppAccount" search="self.importId = :importId" update="false">
+    <bind column="chequeInterbankCode_importId" to="chequeInterbankCode" search="self.importId = :chequeInterbankCode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultServiceTypeTypology_importId" to="defaultServiceTypeTypology" search="self.importId = :defaultServiceTypeTypology_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="payerQualityConfigLineList_importId" to="payerQualityConfigLineList" search="self.importId in :payerQualityConfigLineList_importId" update="true" eval="payerQualityConfigLineList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fixedAssetBarcodeTypeConfig_importId" to="fixedAssetBarcodeTypeConfig" search="self.importId = :fixedAssetBarcodeTypeConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="transferAndDirectDebitInterbankCode_importId" to="transferAndDirectDebitInterbankCode" search="self.importId = :transferAndDirectDebitInterbankCode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppAppraisal.csv" type="com.axelor.apps.base.db.AppAppraisal" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppBankPayment.csv" type="com.axelor.apps.base.db.AppBankPayment" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppBase.csv" type="com.axelor.apps.base.db.AppBase" search="self.importId = :importId" update="false">
+    <bind column="emailLinkList_importId" to="emailLinkList" search="self.importId in :emailLinkList_importId" update="true" eval="emailLinkList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companySpecificProductFieldsSet_name" to="companySpecificProductFieldsSet" search="self.name in :companySpecificProductFieldsSet_name" update="true" eval="companySpecificProductFieldsSet_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="barcodeTypeConfig_importId" to="barcodeTypeConfig" search="self.importId = :barcodeTypeConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="passwordChangedTemplate_importId" to="passwordChangedTemplate" search="self.importId = :passwordChangedTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultPartnerLanguage_importId" to="defaultPartnerLanguage" search="self.importId = :defaultPartnerLanguage_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productSequence_importId" to="productSequence" search="self.importId = :productSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="unitMinutes_importId" to="unitMinutes" search="self.importId = :unitMinutes_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mailTemplateAssociationList_importId" to="mailTemplateAssociationList" search="self.importId in :mailTemplateAssociationList_importId" update="true" eval="mailTemplateAssociationList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultMailMessageTemplate_importId" to="defaultMailMessageTemplate" search="self.importId = :defaultMailMessageTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="unitHours_importId" to="unitHours" search="self.importId = :unitHours_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="unitDays_importId" to="unitDays" search="self.importId = :unitDays_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppBpm.csv" type="com.axelor.apps.base.db.AppBpm" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppBudget.csv" type="com.axelor.apps.base.db.AppBudget" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppBusinessProject.csv" type="com.axelor.apps.base.db.AppBusinessProject" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="postTaskStatusSet_importId" to="postTaskStatusSet" search="self.importId in :postTaskStatusSet_importId" update="true" eval="postTaskStatusSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productInvoicingProject_importId" to="productInvoicingProject" search="self.importId = :productInvoicingProject_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="preTaskStatusSet_importId" to="preTaskStatusSet" search="self.importId in :preTaskStatusSet_importId" update="true" eval="preTaskStatusSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppBusinessSupport.csv" type="com.axelor.apps.base.db.AppBusinessSupport" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="providerCompany_importId" to="providerCompany" search="self.importId = :providerCompany_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppCashManagement.csv" type="com.axelor.apps.base.db.AppCashManagement" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppContract.csv" type="com.axelor.apps.base.db.AppContract" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppCrm.csv" type="com.axelor.apps.base.db.AppCrm" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="groupsAssignable_importId" to="groupsAssignable" search="self.importId in :groupsAssignable_importId" update="true" eval="groupsAssignable_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppEmployee.csv" type="com.axelor.apps.base.db.AppEmployee" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppExpense.csv" type="com.axelor.apps.base.db.AppExpense" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppExtraHours.csv" type="com.axelor.apps.base.db.AppExtraHours" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppFleet.csv" type="com.axelor.apps.base.db.AppFleet" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppHelpdesk.csv" type="com.axelor.apps.base.db.AppHelpdesk" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppInvoice.csv" type="com.axelor.apps.base.db.AppInvoice" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppLeave.csv" type="com.axelor.apps.base.db.AppLeave" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppMaintenance.csv" type="com.axelor.apps.base.db.AppMaintenance" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppMarketing.csv" type="com.axelor.apps.base.db.AppMarketing" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppMobile.csv" type="com.axelor.apps.base.db.AppMobile" search="self.importId = :importId" update="false">
+    <bind column="productSet_importId" to="productSet" search="self.importId in :productSet_importId" update="true" eval="productSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partnerSet_importId" to="partnerSet" search="self.importId in :partnerSet_importId" update="true" eval="partnerSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="projectSet_importId" to="projectSet" search="self.importId in :projectSet_importId" update="true" eval="projectSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="leadSet_importId" to="leadSet" search="self.importId in :leadSet_importId" update="true" eval="leadSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partnerContactSet_importId" to="partnerContactSet" search="self.importId in :partnerContactSet_importId" update="true" eval="partnerContactSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppPortal.csv" type="com.axelor.apps.base.db.AppPortal" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="onlinePaymentMethodSet_importId" to="onlinePaymentMethodSet" search="self.importId in :onlinePaymentMethodSet_importId" update="true" eval="onlinePaymentMethodSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppProduction.csv" type="com.axelor.apps.base.db.AppProduction" search="self.importId = :importId" update="false">
+    <bind column="barcodeTypeConfig_importId" to="barcodeTypeConfig" search="self.importId = :barcodeTypeConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="workCenterProduct_importId" to="workCenterProduct" search="self.importId = :workCenterProduct_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="workCenterCostSheetGroup_importId" to="workCenterCostSheetGroup" search="self.importId = :workCenterCostSheetGroup_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productCostSheetGroup_importId" to="productCostSheetGroup" search="self.importId = :productCostSheetGroup_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cycleUnit_importId" to="cycleUnit" search="self.importId = :cycleUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppProject.csv" type="com.axelor.apps.base.db.AppProject" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="projectCustomFieldsList_name" to="projectCustomFieldsList" search="self.name in :projectCustomFieldsList_name" update="true" eval="projectCustomFieldsList_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultPrioritySet_importId" to="defaultPrioritySet" search="self.importId in :defaultPrioritySet_importId" update="true" eval="defaultPrioritySet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taskCustomFieldsList_name" to="taskCustomFieldsList" search="self.name in :taskCustomFieldsList_name" update="true" eval="taskCustomFieldsList_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultTaskStatusSet_importId" to="defaultTaskStatusSet" search="self.importId in :defaultTaskStatusSet_importId" update="true" eval="defaultTaskStatusSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppPurchase.csv" type="com.axelor.apps.base.db.AppPurchase" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseUnit_importId" to="purchaseUnit" search="self.importId = :purchaseUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppPurchaseRequest.csv" type="com.axelor.apps.base.db.AppPurchaseRequest" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppQuality.csv" type="com.axelor.apps.base.db.AppQuality" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="qualityControlTemplate_importId" to="qualityControlTemplate" search="self.importId = :qualityControlTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppRecruitment.csv" type="com.axelor.apps.base.db.AppRecruitment" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppSale.csv" type="com.axelor.apps.base.db.AppSale" search="self.importId = :importId" update="false">
+    <bind column="saleUnit_importId" to="saleUnit" search="self.importId = :saleUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppStock.csv" type="com.axelor.apps.base.db.AppStock" search="self.importId = :importId" update="false">
+    <bind column="stockLocationBarcodeTypeConfig_importId" to="stockLocationBarcodeTypeConfig" search="self.importId = :stockLocationBarcodeTypeConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="economicArea_importId" to="economicArea" search="self.importId = :economicArea_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="stockUnit_importId" to="stockUnit" search="self.importId = :stockUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="trackingNumberBarcodeTypeConfig_importId" to="trackingNumberBarcodeTypeConfig" search="self.importId = :trackingNumberBarcodeTypeConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppSupplierPortal.csv" type="com.axelor.apps.base.db.AppSupplierPortal" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppSupplychain.csv" type="com.axelor.apps.base.db.AppSupplychain" search="self.importId = :importId" update="false">
+    <bind column="cancelReasonOnChangingSaleOrder_importId" to="cancelReasonOnChangingSaleOrder" search="self.importId = :cancelReasonOnChangingSaleOrder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppTimesheet.csv" type="com.axelor.apps.base.db.AppTimesheet" search="self.importId = :importId" update="false">
+    <bind column="timesheetReminderTemplate_importId" to="timesheetReminderTemplate" search="self.importId = :timesheetReminderTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AppTraining.csv" type="com.axelor.apps.base.db.AppTraining" search="self.importId = :importId" update="false">
+    <bind column="app_importId" to="app" search="self.importId = :app_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="BirtTemplateParameter.csv" type="com.axelor.apps.base.db.BirtTemplateParameter" search="self.name = :name" update="false">
+    <bind column="birtTemplate_importId" to="birtTemplate" search="self.importId = :birtTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="City.csv" type="com.axelor.apps.base.db.City" search="self.importId = :importId" update="false">
+    <bind column="country_importId" to="country" search="self.importId = :country_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="canton_importId" to="canton" search="self.importId = :canton_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="department_importId" to="department" search="self.importId = :department_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Company.csv" type="com.axelor.apps.base.db.Company" search="self.importId = :importId" update="false">
+    <bind column="parent_importId" to="parent" search="self.importId = :parent_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="language_importId" to="language" search="self.importId = :language_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingNameSet_importId" to="tradingNameSet" search="self.importId in :tradingNameSet_importId" update="true" eval="tradingNameSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partnerList_importId" to="partnerList" search="self.importId in :partnerList_importId" update="true" eval="partnerList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="logo_importId" to="logo" search="self.importId = :logo_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultBankDetails_importId" to="defaultBankDetails" search="self.importId = :defaultBankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="publicHolidayEventsPlanning_importId" to="publicHolidayEventsPlanning" search="self.importId = :publicHolidayEventsPlanning_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="printingSettings_importId" to="printingSettings" search="self.importId = :printingSettings_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="address_importId" to="address" search="self.importId = :address_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticAccountSet_importId" to="analyticAccountSet" search="self.importId in :analyticAccountSet_importId" update="true" eval="analyticAccountSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="weeklyPlanning_importId" to="weeklyPlanning" search="self.importId = :weeklyPlanning_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partner_importId" to="partner" search="self.importId = :partner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Country.csv" type="com.axelor.apps.base.db.Country" search="self.importId = :importId" update="false">
+    <bind column="citizenship_importId" to="citizenship" search="self.importId = :citizenship_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="economicArea_importId" to="economicArea" search="self.importId = :economicArea_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="DataConfigLine.csv" type="com.axelor.apps.base.db.DataConfigLine" search="self.importId = :importId" update="false">
+    <bind column="metaModel_name" to="metaModel" search="self.name = :metaModel_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="toExportMetaFieldSet_name" to="toExportMetaFieldSet" search="self.name in :toExportMetaFieldSet_name" update="true" eval="toExportMetaFieldSet_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="toDeleteMetaFieldSet_name" to="toDeleteMetaFieldSet" search="self.name in :toDeleteMetaFieldSet_name" update="true" eval="toDeleteMetaFieldSet_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="metaFieldPath_name" to="metaFieldPath" search="self.name = :metaFieldPath_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="objectDataConfig_importId" to="objectDataConfig" search="self.importId = :objectDataConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Partner.csv" type="com.axelor.apps.base.db.Partner" search="self.importId = :importId" update="false">
+    <bind column="purchasePartnerPriceList_importId" to="purchasePartnerPriceList" search="self.importId = :purchasePartnerPriceList_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="das2Activity_importId" to="das2Activity" search="self.importId = :das2Activity_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="carrierPartner_importId" to="carrierPartner" search="self.importId = :carrierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mainActivity_importId" to="mainActivity" search="self.importId = :mainActivity_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="contactPartnerSet_importId" to="contactPartnerSet" search="self.importId in :contactPartnerSet_importId" update="true" eval="contactPartnerSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mainAddress_importId" to="mainAddress" search="self.importId = :mainAddress_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mainPartner_importId" to="mainPartner" search="self.importId = :mainPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="industrySector_importId" to="industrySector" search="self.importId = :industrySector_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingName_importId" to="tradingName" search="self.importId = :tradingName_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="parentPartner_importId" to="parentPartner" search="self.importId = :parentPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reportsTo_importId" to="reportsTo" search="self.importId = :reportsTo_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="team_importId" to="team" search="self.importId = :team_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="picture_importId" to="picture" search="self.importId = :picture_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fiscalPosition_importId" to="fiscalPosition" search="self.importId = :fiscalPosition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="jobTitleFunction_importId" to="jobTitleFunction" search="self.importId = :jobTitleFunction_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="language_importId" to="language" search="self.importId = :language_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="source_importId" to="source" search="self.importId = :source_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="emailAddress_importId" to="emailAddress" search="self.importId = :emailAddress_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partnerCategory_importId" to="partnerCategory" search="self.importId = :partnerCategory_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="financialDiscount_importId" to="financialDiscount" search="self.importId = :financialDiscount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="freightCarrierMode_importId" to="freightCarrierMode" search="self.importId = :freightCarrierMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partnerRoleSet_importId" to="partnerRoleSet" search="self.importId in :partnerRoleSet_importId" update="true" eval="partnerRoleSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="salePartnerPriceList_importId" to="salePartnerPriceList" search="self.importId = :salePartnerPriceList_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="outPaymentMode_importId" to="outPaymentMode" search="self.importId = :outPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="activeUmr_importId" to="activeUmr" search="self.importId = :activeUmr_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="inPaymentMode_importId" to="inPaymentMode" search="self.importId = :inPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="batchSet_importId" to="batchSet" search="self.importId in :batchSet_importId" update="true" eval="batchSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companySet_importId" to="companySet" search="self.importId in :companySet_importId" update="true" eval="companySet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentCondition_importId" to="paymentCondition" search="self.importId = :paymentCondition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="shipmentMode_importId" to="shipmentMode" search="self.importId = :shipmentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticDistributionTemplate_importId" to="analyticDistributionTemplate" search="self.importId = :analyticDistributionTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="user_importId" to="user" search="self.importId = :user_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="PartnerAddress.csv" type="com.axelor.apps.base.db.PartnerAddress" search="self.importId = :importId" update="false">
+    <bind column="address_importId" to="address" search="self.importId = :address_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partner_importId" to="partner" search="self.importId = :partner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="PrintingSettings.csv" type="com.axelor.apps.base.db.PrintingSettings" search="self.importId = :importId" update="false">
+    <bind column="defaultMailBirtTemplate_importId" to="defaultMailBirtTemplate" search="self.importId = :defaultMailBirtTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Product.csv" type="com.axelor.apps.base.db.Product" search="self.importId = :importId" update="false">
+    <bind column="tradingNameBuyerSet_importId" to="tradingNameBuyerSet" search="self.importId in :tradingNameBuyerSet_importId" update="true" eval="tradingNameBuyerSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchasesUnit_importId" to="purchasesUnit" search="self.importId = :purchasesUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="barcodeTypeConfig_importId" to="barcodeTypeConfig" search="self.importId = :barcodeTypeConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productApproval_importId" to="productApproval" search="self.importId = :productApproval_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customsCodeNomenclature_importId" to="customsCodeNomenclature" search="self.importId = :customsCodeNomenclature_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productVariantConfig_importId" to="productVariantConfig" search="self.importId = :productVariantConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="trackingNumberConfiguration_importId" to="trackingNumberConfiguration" search="self.importId = :trackingNumberConfiguration_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseCurrency_importId" to="purchaseCurrency" search="self.importId = :purchaseCurrency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="massUnit_importId" to="massUnit" search="self.importId = :massUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="parentProduct_importId" to="parentProduct" search="self.importId = :parentProduct_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="costSheetGroup_importId" to="costSheetGroup" search="self.importId = :costSheetGroup_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="picture_importId" to="picture" search="self.importId = :picture_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultBillOfMaterial_importId" to="defaultBillOfMaterial" search="self.importId = :defaultBillOfMaterial_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingNameSellerSet_importId" to="tradingNameSellerSet" search="self.importId in :tradingNameSellerSet_importId" update="true" eval="tradingNameSellerSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mrpFamily_importId" to="mrpFamily" search="self.importId = :mrpFamily_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defaultSupplierPartner_importId" to="defaultSupplierPartner" search="self.importId = :defaultSupplierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="barCode_importId" to="barCode" search="self.importId = :barCode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="unit_importId" to="unit" search="self.importId = :unit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productVariant_importId" to="productVariant" search="self.importId = :productVariant_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taskTemplateSet_importId" to="taskTemplateSet" search="self.importId in :taskTemplateSet_importId" update="true" eval="taskTemplateSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="salesUnit_importId" to="salesUnit" search="self.importId = :salesUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="lengthUnit_importId" to="lengthUnit" search="self.importId = :lengthUnit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productFamily_importId" to="productFamily" search="self.importId = :productFamily_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="productCategory_importId" to="productCategory" search="self.importId = :productCategory_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleCurrency_importId" to="saleCurrency" search="self.importId = :saleCurrency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="countryOfOrigin_importId" to="countryOfOrigin" search="self.importId = :countryOfOrigin_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Sequence.csv" type="com.axelor.apps.base.db.Sequence" search="self.importId = :importId" update="false">
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="SequenceVersion.csv" type="com.axelor.apps.base.db.SequenceVersion" search="self.importId = :importId" update="false">
+    <bind column="sequence_importId" to="sequence" search="self.importId = :sequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Lead.csv" type="com.axelor.apps.crm.db.Lead" search="self.importId = :importId" update="false" call="com.axelor.apps.base.service.app.DataBackupRestoreService:importObjectWithByteArray">
+    <bind column="jobTitleFunction_importId" to="jobTitleFunction" search="self.importId = :jobTitleFunction_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="source_importId" to="source" search="self.importId = :source_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="emailAddress_importId" to="emailAddress" search="self.importId = :emailAddress_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="primaryCountry_importId" to="primaryCountry" search="self.importId = :primaryCountry_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="primaryState_importId" to="primaryState" search="self.importId = :primaryState_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="industrySector_importId" to="industrySector" search="self.importId = :industrySector_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="lostReason_importId" to="lostReason" search="self.importId = :lostReason_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="primaryCity_importId" to="primaryCity" search="self.importId = :primaryCity_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="team_importId" to="team" search="self.importId = :team_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partner_importId" to="partner" search="self.importId = :partner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="user_importId" to="user" search="self.importId = :user_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Opportunity.csv" type="com.axelor.apps.crm.db.Opportunity" search="self.importId = :importId" update="false">
+    <bind column="lostReason_importId" to="lostReason" search="self.importId = :lostReason_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="source_importId" to="source" search="self.importId = :source_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="bankDetails_importId" to="bankDetails" search="self.importId = :bankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingName_importId" to="tradingName" search="self.importId = :tradingName_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="team_importId" to="team" search="self.importId = :team_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="lead_importId" to="lead" search="self.importId = :lead_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="opportunityType_importId" to="opportunityType" search="self.importId = :opportunityType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partner_importId" to="partner" search="self.importId = :partner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="user_importId" to="user" search="self.importId = :user_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Template.csv" type="com.axelor.apps.message.db.Template" search="self.importId = :importId" update="false">
+    <bind column="language_importId" to="language" search="self.importId = :language_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="birtTemplateSet_importId" to="birtTemplateSet" search="self.importId in :birtTemplateSet_importId" update="true" eval="birtTemplateSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="metaJsonModel_name" to="metaJsonModel" search="self.name = :metaJsonModel_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="metaModel_name" to="metaModel" search="self.name = :metaModel_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="TemplateContext.csv" type="com.axelor.apps.message.db.TemplateContext" search="self.importId = :importId" update="false">
+    <bind column="template_importId" to="template" search="self.importId = :template_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="printTemplateLine_importId" to="printTemplateLine" search="self.importId = :printTemplateLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="PurchaseOrderLine.csv" type="com.axelor.apps.purchase.db.PurchaseOrderLine" search="self.importId = :importId" update="false">
+    <bind column="project_importId" to="project" search="self.importId = :project_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierPartner_importId" to="supplierPartner" search="self.importId = :supplierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="budget_importId" to="budget" search="self.importId = :budget_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxLine_importId" to="taxLine" search="self.importId = :taxLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="unit_importId" to="unit" search="self.importId = :unit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxEquiv_importId" to="taxEquiv" search="self.importId = :taxEquiv_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="product_importId" to="product" search="self.importId = :product_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseOrder_importId" to="purchaseOrder" search="self.importId = :purchaseOrder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticDistributionTemplate_importId" to="analyticDistributionTemplate" search="self.importId = :analyticDistributionTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="PurchaseOrderLineTax.csv" type="com.axelor.apps.purchase.db.PurchaseOrderLineTax" search="self.importId = :importId" update="false">
+    <bind column="taxLine_importId" to="taxLine" search="self.importId = :taxLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseOrder_importId" to="purchaseOrder" search="self.importId = :purchaseOrder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="SaleOrderLine.csv" type="com.axelor.apps.sale.db.SaleOrderLine" search="self.importId = :importId" update="false">
+    <bind column="project_importId" to="project" search="self.importId = :project_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierPartner_importId" to="supplierPartner" search="self.importId = :supplierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mainSaleOrderLine_importId" to="mainSaleOrderLine" search="self.importId = :mainSaleOrderLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxLine_importId" to="taxLine" search="self.importId = :taxLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="billOfMaterial_importId" to="billOfMaterial" search="self.importId = :billOfMaterial_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="unit_importId" to="unit" search="self.importId = :unit_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxEquiv_importId" to="taxEquiv" search="self.importId = :taxEquiv_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleOrder_importId" to="saleOrder" search="self.importId = :saleOrder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="product_importId" to="product" search="self.importId = :product_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticDistributionTemplate_importId" to="analyticDistributionTemplate" search="self.importId = :analyticDistributionTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="SaleOrderLineTax.csv" type="com.axelor.apps.sale.db.SaleOrderLineTax" search="self.importId = :importId" update="false">
+    <bind column="taxLine_importId" to="taxLine" search="self.importId = :taxLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleOrder_importId" to="saleOrder" search="self.importId = :saleOrder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="MrpLineType.csv" type="com.axelor.apps.supplychain.db.MrpLineType" search="self.importId = :importId" update="false">
+    <bind column="metaField_name" to="metaField" search="self.name = :metaField_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Group.csv" type="com.axelor.auth.db.Group" search="self.code = :code" update="false">
+    <bind column="metaPermissions_name" to="metaPermissions" search="self.name in :metaPermissions_name" update="true" eval="metaPermissions_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="roles_importId" to="roles" search="self.importId in :roles_importId" update="true" eval="roles_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="permissions_importId" to="permissions" search="self.importId in :permissions_importId" update="true" eval="permissions_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="menus_name" to="menus" search="self.name in :menus_name" update="true" eval="menus_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="views_name" to="views" search="self.name in :views_name" update="true" eval="views_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="Role.csv" type="com.axelor.auth.db.Role" search="self.name = :name" update="false">
+    <bind column="metaPermissions_name" to="metaPermissions" search="self.name in :metaPermissions_name" update="true" eval="metaPermissions_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="permissions_importId" to="permissions" search="self.importId in :permissions_importId" update="true" eval="permissions_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="menus_name" to="menus" search="self.name in :menus_name" update="true" eval="menus_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="User.csv" type="com.axelor.auth.db.User" search="self.code = :code" update="false" call="com.axelor.apps.base.service.app.DataBackupRestoreService:importObjectWithByteArray">
+    <bind column="contextProject_importId" to="contextProject" search="self.importId = :contextProject_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="employee_importId" to="employee" search="self.importId = :employee_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="iCalendar_importId" to="iCalendar" search="self.importId = :iCalendar_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="workshopStockLocation_importId" to="workshopStockLocation" search="self.importId = :workshopStockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="permissions_importId" to="permissions" search="self.importId in :permissions_importId" update="true" eval="permissions_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="emailAccountList_importId" to="emailAccountList" search="self.importId in :emailAccountList_importId" update="true" eval="emailAccountList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="followedMetaModelSet_name" to="followedMetaModelSet" search="self.name in :followedMetaModelSet_name" update="true" eval="followedMetaModelSet_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="group_importId" to="group" search="self.importId = :group_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="metaPermissions_name" to="metaPermissions" search="self.name in :metaPermissions_name" update="true" eval="metaPermissions_name.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="electronicSignature_importId" to="electronicSignature" search="self.importId = :electronicSignature_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="roles_importId" to="roles" search="self.importId in :roles_importId" update="true" eval="roles_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="activeCompany_importId" to="activeCompany" search="self.importId = :activeCompany_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="activeTeam_importId" to="activeTeam" search="self.importId = :activeTeam_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="substitutePfpValidatorList_importId" to="substitutePfpValidatorList" search="self.importId in :substitutePfpValidatorList_importId" update="true" eval="substitutePfpValidatorList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companySet_importId" to="companySet" search="self.importId in :companySet_importId" update="true" eval="companySet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingName_importId" to="tradingName" search="self.importId = :tradingName_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="followersCalUserSet_importId" to="followersCalUserSet" search="self.importId in :followersCalUserSet_importId" update="true" eval="followersCalUserSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="partner_importId" to="partner" search="self.importId = :partner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="TraceBack.csv" type="com.axelor.exception.db.TraceBack" search="self.importId = :importId" update="false">
+    <bind column="internalUser_importId" to="internalUser" search="self.importId = :internalUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="MailMessage.csv" type="com.axelor.mail.db.MailMessage" search="self.importId = :importId" update="false">
+    <bind column="parent_importId" to="parent" search="self.importId = :parent_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="root_importId" to="root" search="self.importId = :root_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="from_importId" to="from" search="self.importId = :from_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="author_importId" to="author" search="self.importId = :author_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="recipients_importId" to="recipients" search="self.importId in :recipients_importId" update="true" eval="recipients_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="MetaJsonField.csv" type="com.axelor.meta.db.MetaJsonField" search="self.importId = :importId" update="false">
+    <bind column="selectionRef_name" to="selectionRef" search="self.name = :selectionRef_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="metaSelect_name" to="metaSelect" search="self.name = :metaSelect_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="targetJsonModel_name" to="targetJsonModel" search="self.name = :targetJsonModel_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="roles_importId" to="roles" search="self.importId in :roles_importId" update="true" eval="roles_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="jsonModel_name" to="jsonModel" search="self.name = :jsonModel_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="appBuilder_importId" to="appBuilder" search="self.importId = :appBuilder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AccountConfig.csv" type="com.axelor.apps.account.db.AccountConfig" search="self.importId = :importId" update="false">
+    <bind column="suppInvSequence_importId" to="suppInvSequence" search="self.importId = :suppInvSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="defPaymentCondition_importId" to="defPaymentCondition" search="self.importId = :defPaymentCondition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="irrecoverableStandardRateTax_importId" to="irrecoverableStandardRateTax" search="self.importId = :irrecoverableStandardRateTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cashPositionVariationAccount_importId" to="cashPositionVariationAccount" search="self.importId = :cashPositionVariationAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="factorDebitAccount_importId" to="factorDebitAccount" search="self.importId = :factorDebitAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="expenseJournal_importId" to="expenseJournal" search="self.importId = :expenseJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseJournalType_importId" to="purchaseJournalType" search="self.importId = :purchaseJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="billOfExchReceivAccount_importId" to="billOfExchReceivAccount" search="self.importId = :billOfExchReceivAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierAccount_importId" to="supplierAccount" search="self.importId = :supplierAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoiceMessageTemplate_importId" to="invoiceMessageTemplate" search="self.importId = :invoiceMessageTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cashJournalType_importId" to="cashJournalType" search="self.importId = :cashJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="forecastedInvSuppAccount_importId" to="forecastedInvSuppAccount" search="self.importId = :forecastedInvSuppAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="employeeAccountSequence_importId" to="employeeAccountSequence" search="self.importId = :employeeAccountSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="irrecoverableAccount_importId" to="irrecoverableAccount" search="self.importId = :irrecoverableAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierPurchaseJournal_importId" to="supplierPurchaseJournal" search="self.importId = :supplierPurchaseJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="manualMiscOpeJournal_importId" to="manualMiscOpeJournal" search="self.importId = :manualMiscOpeJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerAccount_importId" to="customerAccount" search="self.importId = :customerAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="rejectionPaymentMode_importId" to="rejectionPaymentMode" search="self.importId = :rejectionPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="creditNoteJournalType_importId" to="creditNoteJournalType" search="self.importId = :creditNoteJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="advancePaymentProduct_importId" to="advancePaymentProduct" search="self.importId = :advancePaymentProduct_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="profitAccount_importId" to="profitAccount" search="self.importId = :profitAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierCreditNoteJournal_importId" to="supplierCreditNoteJournal" search="self.importId = :supplierCreditNoteJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierAdvancePaymentAccount_importId" to="supplierAdvancePaymentAccount" search="self.importId = :supplierAdvancePaymentAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleJournalType_importId" to="saleJournalType" search="self.importId = :saleJournalType_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="rejectPaymentScheduleTemplate_importId" to="rejectPaymentScheduleTemplate" search="self.importId = :rejectPaymentScheduleTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="custInvSequence_importId" to="custInvSequence" search="self.importId = :custInvSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="standardRateTax_importId" to="standardRateTax" search="self.importId = :standardRateTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="factorPartner_importId" to="factorPartner" search="self.importId = :factorPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="temporaryClosureAuthorizedRoleList_importId" to="temporaryClosureAuthorizedRoleList" search="self.importId in :temporaryClosureAuthorizedRoleList_importId" update="true" eval="temporaryClosureAuthorizedRoleList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="irrecoverableJournal_importId" to="irrecoverableJournal" search="self.importId = :irrecoverableJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="autoMiscOpeJournal_importId" to="autoMiscOpeJournal" search="self.importId = :autoMiscOpeJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cfonbConfig_importId" to="cfonbConfig" search="self.importId = :cfonbConfig_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerCreditNoteJournal_importId" to="customerCreditNoteJournal" search="self.importId = :customerCreditNoteJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="yearOpeningAccount_importId" to="yearOpeningAccount" search="self.importId = :yearOpeningAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reimbursementJournal_importId" to="reimbursementJournal" search="self.importId = :reimbursementJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="custRefSequence_importId" to="custRefSequence" search="self.importId = :custRefSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="closureAuthorizedRoleList_importId" to="closureAuthorizedRoleList" search="self.importId in :closureAuthorizedRoleList_importId" update="true" eval="closureAuthorizedRoleList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerAccountSequence_importId" to="customerAccountSequence" search="self.importId = :customerAccountSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="clearanceAccountSet_importId" to="clearanceAccountSet" search="self.importId in :clearanceAccountSet_importId" update="true" eval="clearanceAccountSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoiceWatermark_importId" to="invoiceWatermark" search="self.importId = :invoiceWatermark_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="employeeAccount_importId" to="employeeAccount" search="self.importId = :employeeAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="expenseTaxAccount_importId" to="expenseTaxAccount" search="self.importId = :expenseTaxAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchFinancialDiscountAccount_importId" to="purchFinancialDiscountAccount" search="self.importId = :purchFinancialDiscountAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="holdBackSupplierAccount_importId" to="holdBackSupplierAccount" search="self.importId = :holdBackSupplierAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="rejectJournal_importId" to="rejectJournal" search="self.importId = :rejectJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="accountClearanceJournal_importId" to="accountClearanceJournal" search="self.importId = :accountClearanceJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="factorCreditAccount_importId" to="factorCreditAccount" search="self.importId = :factorCreditAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="forecastedInvCustAccount_importId" to="forecastedInvCustAccount" search="self.importId = :forecastedInvCustAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="outPaymentMode_importId" to="outPaymentMode" search="self.importId = :outPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoicingProduct_importId" to="invoicingProduct" search="self.importId = :invoicingProduct_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="moveOnTempClosureAuthorizedRoleList_importId" to="moveOnTempClosureAuthorizedRoleList" search="self.importId in :moveOnTempClosureAuthorizedRoleList_importId" update="true" eval="moveOnTempClosureAuthorizedRoleList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleFinancialDiscountTax_importId" to="saleFinancialDiscountTax" search="self.importId = :saleFinancialDiscountTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticJournal_importId" to="analyticJournal" search="self.importId = :analyticJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reportedBalanceJournal_importId" to="reportedBalanceJournal" search="self.importId = :reportedBalanceJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reimbursementAccount_importId" to="reimbursementAccount" search="self.importId = :reimbursementAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="accountChart_importId" to="accountChart" search="self.importId = :accountChart_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="inPaymentMode_importId" to="inPaymentMode" search="self.importId = :inPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchFinancialDiscountTax_importId" to="purchFinancialDiscountTax" search="self.importId = :purchFinancialDiscountTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="doubtfulCustomerAccount_importId" to="doubtfulCustomerAccount" search="self.importId = :doubtfulCustomerAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="advancePaymentAccount_importId" to="advancePaymentAccount" search="self.importId = :advancePaymentAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="reimbursementTemplate_importId" to="reimbursementTemplate" search="self.importId = :reimbursementTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="holdBackCustomerAccount_importId" to="holdBackCustomerAccount" search="self.importId = :holdBackCustomerAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleFinancialDiscountAccount_importId" to="saleFinancialDiscountAccount" search="self.importId = :saleFinancialDiscountAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="suppRefSequence_importId" to="suppRefSequence" search="self.importId = :suppRefSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="customerSalesJournal_importId" to="customerSalesJournal" search="self.importId = :customerSalesJournal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="dasContactPartner_importId" to="dasContactPartner" search="self.importId = :dasContactPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="directDebitPaymentMode_importId" to="directDebitPaymentMode" search="self.importId = :directDebitPaymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="yearClosureAccount_importId" to="yearClosureAccount" search="self.importId = :yearClosureAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierAccountSequence_importId" to="supplierAccountSequence" search="self.importId = :supplierAccountSequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AccountManagement.csv" type="com.axelor.apps.account.db.AccountManagement" search="self.importId = :importId" update="false">
+    <bind column="productFamily_importId" to="productFamily" search="self.importId = :productFamily_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="bankDetails_importId" to="bankDetails" search="self.importId = :bankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="journal_importId" to="journal" search="self.importId = :journal_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseTax_importId" to="purchaseTax" search="self.importId = :purchaseTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="product_importId" to="product" search="self.importId = :product_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentMode_importId" to="paymentMode" search="self.importId = :paymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchaseAccount_importId" to="purchaseAccount" search="self.importId = :purchaseAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tax_importId" to="tax" search="self.importId = :tax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="sequence_importId" to="sequence" search="self.importId = :sequence_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="financialDiscountAccount_importId" to="financialDiscountAccount" search="self.importId = :financialDiscountAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="interbankCodeLine_importId" to="interbankCodeLine" search="self.importId = :interbankCodeLine_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cashAccount_importId" to="cashAccount" search="self.importId = :cashAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="purchFixedAssetsAccount_importId" to="purchFixedAssetsAccount" search="self.importId = :purchFixedAssetsAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleAccount_importId" to="saleAccount" search="self.importId = :saleAccount_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="saleTax_importId" to="saleTax" search="self.importId = :saleTax_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="analyticDistributionTemplate_importId" to="analyticDistributionTemplate" search="self.importId = :analyticDistributionTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fixedAssetCategory_importId" to="fixedAssetCategory" search="self.importId = :fixedAssetCategory_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="ImportFECType.csv" type="com.axelor.apps.account.db.ImportFECType" search="self.importId = :importId" update="false">
+    <bind column="bindMetaFile_importId" to="bindMetaFile" search="self.importId = :bindMetaFile_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="AdvancedExport.csv" type="com.axelor.apps.base.db.AdvancedExport" search="self.importId = :importId" update="false">
+    <bind column="metaModel_name" to="metaModel" search="self.name = :metaModel_name" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="CurrencyConversionLine.csv" type="com.axelor.apps.base.db.CurrencyConversionLine" search="self.importId = :importId" update="false">
+    <bind column="endCurrency_importId" to="endCurrency" search="self.importId = :endCurrency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="startCurrency_importId" to="startCurrency" search="self.importId = :startCurrency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="appBase_importId" to="appBase" search="self.importId = :appBase_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="ImportConfiguration.csv" type="com.axelor.apps.base.db.ImportConfiguration" search="self.importId = :importId" update="false">
+    <bind column="bindMetaFile_importId" to="bindMetaFile" search="self.importId = :bindMetaFile_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="dataMetaFile_importId" to="dataMetaFile" search="self.importId = :dataMetaFile_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="user_importId" to="user" search="self.importId = :user_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="PurchaseOrder.csv" type="com.axelor.apps.purchase.db.PurchaseOrder" search="self.importId = :importId" update="false">
+    <bind column="project_importId" to="project" search="self.importId = :project_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="supplierPartner_importId" to="supplierPartner" search="self.importId = :supplierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="freightCarrierMode_importId" to="freightCarrierMode" search="self.importId = :freightCarrierMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="budget_importId" to="budget" search="self.importId = :budget_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="buyerUser_importId" to="buyerUser" search="self.importId = :buyerUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxNumber_importId" to="taxNumber" search="self.importId = :taxNumber_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="validatedByUser_importId" to="validatedByUser" search="self.importId = :validatedByUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="stockLocation_importId" to="stockLocation" search="self.importId = :stockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="priceList_importId" to="priceList" search="self.importId = :priceList_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="printingSettings_importId" to="printingSettings" search="self.importId = :printingSettings_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="contactPartner_importId" to="contactPartner" search="self.importId = :contactPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="parentPurchaseOrder_importId" to="parentPurchaseOrder" search="self.importId = :parentPurchaseOrder_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingName_importId" to="tradingName" search="self.importId = :tradingName_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fromStockLocation_importId" to="fromStockLocation" search="self.importId = :fromStockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentCondition_importId" to="paymentCondition" search="self.importId = :paymentCondition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentMode_importId" to="paymentMode" search="self.importId = :paymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="shipmentMode_importId" to="shipmentMode" search="self.importId = :shipmentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="team_importId" to="team" search="self.importId = :team_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companyBankDetails_importId" to="companyBankDetails" search="self.importId = :companyBankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fiscalPosition_importId" to="fiscalPosition" search="self.importId = :fiscalPosition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+  <input file="SaleOrder.csv" type="com.axelor.apps.sale.db.SaleOrder" search="self.importId = :importId" update="false">
+    <bind column="carrierPartner_importId" to="carrierPartner" search="self.importId = :carrierPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="deliveryAddress_importId" to="deliveryAddress" search="self.importId = :deliveryAddress_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="invoicedPartner_importId" to="invoicedPartner" search="self.importId = :invoicedPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="opportunity_importId" to="opportunity" search="self.importId = :opportunity_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="taxNumber_importId" to="taxNumber" search="self.importId = :taxNumber_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="deliveredPartner_importId" to="deliveredPartner" search="self.importId = :deliveredPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="stockLocation_importId" to="stockLocation" search="self.importId = :stockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="currency_importId" to="currency" search="self.importId = :currency_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="contactPartner_importId" to="contactPartner" search="self.importId = :contactPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="cancelReason_importId" to="cancelReason" search="self.importId = :cancelReason_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="tradingName_importId" to="tradingName" search="self.importId = :tradingName_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="stockMoveList_importId" to="stockMoveList" search="self.importId in :stockMoveList_importId" update="true" eval="stockMoveList_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="team_importId" to="team" search="self.importId = :team_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="companyBankDetails_importId" to="companyBankDetails" search="self.importId = :companyBankDetails_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="fiscalPosition_importId" to="fiscalPosition" search="self.importId = :fiscalPosition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="project_importId" to="project" search="self.importId = :project_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="freightCarrierMode_importId" to="freightCarrierMode" search="self.importId = :freightCarrierMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="mainInvoicingAddress_importId" to="mainInvoicingAddress" search="self.importId = :mainInvoicingAddress_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="templateUser_importId" to="templateUser" search="self.importId = :templateUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="clientPartner_importId" to="clientPartner" search="self.importId = :clientPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="electronicSignature_importId" to="electronicSignature" search="self.importId = :electronicSignature_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="incoterm_importId" to="incoterm" search="self.importId = :incoterm_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="timetableTemplate_importId" to="timetableTemplate" search="self.importId = :timetableTemplate_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="forwarderPartner_importId" to="forwarderPartner" search="self.importId = :forwarderPartner_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="batchSet_importId" to="batchSet" search="self.importId in :batchSet_importId" update="true" eval="batchSet_importId.split(&apos;\\|&apos;) as List">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="priceList_importId" to="priceList" search="self.importId = :priceList_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="duration_importId" to="duration" search="self.importId = :duration_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="printingSettings_importId" to="printingSettings" search="self.importId = :printingSettings_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="toStockLocation_importId" to="toStockLocation" search="self.importId = :toStockLocation_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="company_importId" to="company" search="self.importId = :company_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentCondition_importId" to="paymentCondition" search="self.importId = :paymentCondition_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="paymentMode_importId" to="paymentMode" search="self.importId = :paymentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="shipmentMode_importId" to="shipmentMode" search="self.importId = :shipmentMode_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="salespersonUser_importId" to="salespersonUser" search="self.importId = :salespersonUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bind column="confirmedByUser_importId" to="confirmedByUser" search="self.importId = :confirmedByUser_importId" update="true">
+      <bindingsLinked>false</bindingsLinked>
+    </bind>
+    <bindingsLinked>true</bindingsLinked>
+  </input>
+</csv-inputs>

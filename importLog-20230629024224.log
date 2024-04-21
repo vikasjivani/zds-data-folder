@@ -1,0 +1,5 @@
+
+java.lang.IllegalArgumentException: java.lang.NumberFormatException: Character N is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+java.lang.IllegalArgumentException: java.lang.NumberFormatException: Character N is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+Total : 9451 - Succeeded : 9449 - Not null : 9449
+Generated anomalies :2

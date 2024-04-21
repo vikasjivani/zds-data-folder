@@ -1,0 +1,4 @@
+
+javax.persistence.PersistenceException: org.hibernate.exception.DataException: could not execute statement
+Total : 1 - Succeeded : 0 - Not null : 0
+Generated anomalies :1

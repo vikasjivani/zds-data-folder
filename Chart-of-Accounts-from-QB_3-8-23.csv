@@ -1,0 +1,138 @@
+﻿,,Account,,Type,,Balance Total,,Description,,Accnt. #,,Tax Line
+,,Woocommerce Clearing,,Bank,,"2,805.01",,,,,,<Unassigned>
+,,11100 · Company Checking Account,,Bank,,0.00,,Company Checking Account,,11100,,<Unassigned>
+,,11200 · Company Savings Account,,Bank,,36.08,,,,11200,,<Unassigned>
+,,11400 · Petty Cash Account,,Bank,,0.00,,,,11400,,<Unassigned>
+,,11600 · Payroll Clearing,,Bank,,0.00,,May Not be Needed,,11600,,<Unassigned>
+,,12100 · Accounts Receivable,,Accounts Receivable,,"-53,928.08",,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,12100,,<Unassigned>
+,,Cost Variance,,Other Current Asset,,0.00,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,11210 · Inventory Asset,,Other Current Asset,,"-7,325,278.29",,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,11210,,<Unassigned>
+,,12000 · Undeposited Funds,,Other Current Asset,,"2,987,067.98",,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,12000,,<Unassigned>
+,,12101 · *Inventory Asset,,Other Current Asset,,"97,042.47",,Costs of inventory purchased for resale,,12101,,<Unassigned>
+,,12500 · Prepaids,,Other Current Asset,,30.50,,,,12500,,<Unassigned>
+,,12520 · Prepaid Taxes,,Other Current Asset,,0.00,,,,12520,,<Unassigned>
+,,12550 · Prepaid Insurance,,Other Current Asset,,0.00,,,,12550,,<Unassigned>
+,,13100 · Employee Advances,,Other Current Asset,,0.00,,,,13100,,<Unassigned>
+,,13300 · Security Deposits,,Other Current Asset,,0.00,,,,13300,,<Unassigned>
+,,Capital Equipment,,Fixed Asset,,0.00,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,15000 · Furniture and Equipment,,Fixed Asset,,0.00,,Furniture and equipment with useful life exceeding one year,,15000,,<Unassigned>
+,,15100 · Automobiles & Trucks,,Fixed Asset,,0.00,,,,15100,,<Unassigned>
+,,15200 · Computer & Office Equipment,,Fixed Asset,,0.00,,,,15200,,<Unassigned>
+,,15300 · Machinery & Equipment,,Fixed Asset,,0.00,,,,15300,,<Unassigned>
+,,16300 · Tractors and Trailers,,Fixed Asset,,0.00,,"Tractors, trailers, and other delivery vehicles",,16300,,<Unassigned>
+,,16500 · Warehouse Equipment,,Fixed Asset,,0.00,,"Shelving (not permanently attached), forklifts, and other warehouse equipment",,16500,,<Unassigned>
+,,17000 · Accumulated Depreciation,,Fixed Asset,,0.00,,"Accumulated depreciation on equipment, buildings and improvements",,17000,,<Unassigned>
+,,20100 · Accounts Payable,,Accounts Payable,,"72,936.73",,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,20100,,<Unassigned>
+,,20500 · QuickBooks Credit Card,,Credit Card,,0.00,,,,20500,,<Unassigned>
+,,Shipping Accrual,,Other Current Liability,,"11,837.98",,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,21000 · Payroll Liabilities,,Other Current Liability,,0.00,,"Unpaid payroll liabilities. Amounts withheld or accrued, but not yet paid",,21000,,<Unassigned>
+,,21100 · SEC125 Payable,,Other Current Liability,,0.00,,,,21100,,<Unassigned>
+,,21200 · 401K Payable,,Other Current Liability,,0.00,,,,21200,,<Unassigned>
+,,21300 · Payroll Taxes Payable,,Other Current Liability,,0.00,,,,21300,,<Unassigned>
+,,22000 · Customer Deposits,,Other Current Liability,,0.00,,,,22000,,<Unassigned>
+,,24100 · Line of Credit,,Other Current Liability,,0.00,,,,24100,,<Unassigned>
+,,25500 · Sales Tax Payable,,Other Current Liability,,"5,067.42",,"Unpaid sales taxes. Amounts charged on sales, but not yet paid to the government",,25500,,<Unassigned>
+,,24600 · Auto Loan,,Long Term Liability,,0.00,,,,24600,,<Unassigned>
+,,30000 · Opening Balance Equity,,Equity,,"506,551.13",,Opening balances during setup post to this account. The balance of this account should be zero after completing your setup,,30000,,<Unassigned>
+,,30010 · Opening Bal Equity,,Equity,,0.00,,,,30010,,<Unassigned>
+,,30700 · Members Draw,,Equity,,0.00,,Monies taken out of the business by the member,,30700,,<Unassigned>
+,,31000 · Owner's Equity,,Equity,,0.00,,,,31000,,<Unassigned>
+,,31100 · Owner Investment,,Equity,,0.00,,Owner's Investment,,31100,,<Unassigned>
+,,31200 · Owner Draws,,Equity,,0.00,,Owner's Draws,,31200,,<Unassigned>
+,,31300 · Owner's Time to Jobs,,Equity,,0.00,,Owner's Time to Jobs,,31300,,<Unassigned>
+,,32000 · Members Equity,,Equity,,,,"Monies invested in the business by the member, and profits kept in company accounts",,32000,,<Unassigned>
+,,39000 · Retained Earnings,,Equity,,0.00,,,,39000,,<Unassigned>
+,,Discount Income,,Income,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Sales Retail,,Income,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Shipping Income,,Income,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,41000 · Revenue,,Income,,,,,,41000,,<Unassigned>
+,,47900 · Sales Discounts,,Income,,,,Gross receipts from sales,,47900,,<Unassigned>
+,,48000 · Vendor Refunds,,Income,,,,,,48000,,<Unassigned>
+,,48900 · Shipping and Delivery Income,,Income,,,,Freight and delivery income,,48900,,<Unassigned>
+,,49900 · Misc. Revenue,,Income,,,,,,49900,,<Unassigned>
+,,Inventory Adjustment,,Cost of Goods Sold,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,50000 · Cost of Goods Sold,,Cost of Goods Sold,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,50000,,<Unassigned>
+,,51000 · Cost of Goods,,Cost of Goods Sold,,,,,,51000,,<Unassigned>
+,,51200 · Direct Labor,,Cost of Goods Sold,,,,,,51200,,<Unassigned>
+,,51300 · Wages - Sales-Inside,,Cost of Goods Sold,,,,,,51300,,<Unassigned>
+,,51500 · Wage-Warehouse,,Cost of Goods Sold,,,,,,51500,,<Unassigned>
+,,51800 · Merchant Account Fees,,Cost of Goods Sold,,,,"Credit card merchant account discount fees, transaction fees, and related costs",,51800,,<Unassigned>
+,,52000 · Sales Commission (outside reps),,Cost of Goods Sold,,,,,,52000,,<Unassigned>
+,,53000 · Packaging Materials,,Cost of Goods Sold,,,,,,53000,,<Unassigned>
+,,55000 · Freight Costs,,Cost of Goods Sold,,,,Costs of freight and delivery for merchandise purchased,,55000,,<Unassigned>
+,,Discount Expense,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Internal Use,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Labor,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Merchant deposit fees,,Expense,,,,,,,,<Unassigned>
+,,Miscellaneous,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Non-Inventory,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Overhead,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Scrapped Inventory,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Service,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,Shipping Expense,,Expense,,,,DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY. DO NOT MODIFY WITHOUT CHANGING FROM DEFAULT IN FISHBOWL INVENTORY.,,,,<Unassigned>
+,,60000 · Advertising and Promotion,,Expense,,,,"Advertising, marketing, graphic design, and other promotional expenses",,60000,,<Unassigned>
+,,60100 · Auto and Truck Expenses,,Expense,,,,"Fuel, oil, repairs, and other automobile maintenance for business autos and trucks",,60100,,<Unassigned>
+,,61000 · Advertising Expense,,Expense,,,,,,61000,,<Unassigned>
+,,61150 · Bank Service Charges,,Expense,,,,"Bank account service fees, bad check charges and other bank fees",,61150,,<Unassigned>
+,,61200 · Business License & Fees,,Expense,,,,,,61200,,<Unassigned>
+,,61300 · Car/Truck Expense,,Expense,,,,Automobile Expense,,61300,,<Unassigned>
+,,61310 · Car Lease,,Expense,,,,,,61310,,<Unassigned>
+,,61320 · Gas,,Expense,,,,Automobile Gas & Oil,,61320,,<Unassigned>
+,,61340 · Repairs & Maintenance,,Expense,,,,,,61340,,<Unassigned>
+,,61350 · Mileage,,Expense,,,,,,61350,,<Unassigned>
+,,61360 · Registration & License,,Expense,,,,,,61360,,<Unassigned>
+,,61380 · Insurance-Auto,,Expense,,,,,,61380,,<Unassigned>
+,,61400 · Conferences and Seminars,,Expense,,,,,,61400,,<Unassigned>
+,,61450 · Contributions,,Expense,,,,Contributions,,61450,,<Unassigned>
+,,61500 · Depreciation Expense,,Expense,,,,"Depreciation on equipment, buildings and improvements",,61500,,<Unassigned>
+,,61550 · Dues and Subscriptions,,Expense,,,,Dues and Subscriptions,,61550,,<Unassigned>
+,,61700 · Computer and Internet Expenses,,Expense,,,,"Computer supplies, off-the-shelf software, online fees, and other computer or internet related expenses",,61700,,<Unassigned>
+,,61800 · Insurance,,Expense,,,,Insurance,,61800,,<Unassigned>
+,,61810 · Disability Insurance,,Expense,,,,Disability Insurance,,61810,,<Unassigned>
+,,61820 · Life Insurance,,Expense,,,,Life Insurance,,61820,,<Unassigned>
+,,61850 · Owner's Health Insurance,,Expense,,,,,,61850,,<Unassigned>
+,,61860 · Professional Liability Insuranc,,Expense,,,,Professional Liab Insurance,,61860,,<Unassigned>
+,,61880 · General Liability Insurance,,Expense,,,,Gen'l Liability Insurance,,61880,,<Unassigned>
+,,61890 · Worker's Compensation,,Expense,,,,Workman's Compensation,,61890,,<Unassigned>
+,,62360 · Maintenance/Janitorial,,Expense,,,,,,62360,,<Unassigned>
+,,62380 · Marketing Expense,,Expense,,,,,,62380,,<Unassigned>
+,,62400 · Meals and Entertainment,,Expense,,,,"Business meals and entertainment expenses, including travel-related meals (may have limited deductibility)",,62400,,<Unassigned>
+,,62500 · Office Equipment,,Expense,,,,,,62500,,<Unassigned>
+,,62550 · Postage and Delivery,,Expense,,,,Postage and Delivery,,62550,,<Unassigned>
+,,62650 · Printing and Reproduction,,Expense,,,,"Printing, copies, and other reproduction expenses",,62650,,<Unassigned>
+,,62700 · Professional Development,,Expense,,,,Professional Development,,62700,,<Unassigned>
+,,62750 · Professional Fees,,Expense,,,,Payments to accounting professionals and attorneys for accounting or legal services,,62750,,<Unassigned>
+,,62760 · Legal Fees,,Expense,,,,Legal Fees,,62760,,<Unassigned>
+,,62770 · Accounting Fees,,Expense,,,,Accounting Fees,,62770,,<Unassigned>
+,,62780 · Payroll Service Fees,,Expense,,,,Payroll Service Fees,,62780,,<Unassigned>
+,,62800 · Promotional Expense,,Expense,,,,,,62800,,<Unassigned>
+,,62950 · Rent,,Expense,,,,Rent,,62950,,<Unassigned>
+,,63000 · Repairs,,Expense,,,,Repairs and Maintenance,,63000,,<Unassigned>
+,,63020 · Computer Repairs,,Expense,,,,Computer Repairs,,63020,,<Unassigned>
+,,63040 · Equipment Repairs,,Expense,,,,Equipment Repairs,,63040,,<Unassigned>
+,,63100 · Supplies,,Expense,,,,Supplies,,63100,,<Unassigned>
+,,63200 · Telephone,,Expense,,,,Telephone,,63200,,<Unassigned>
+,,63300 · Insurance Expense,,Expense,,,,Insurance expenses,,63300,,<Unassigned>
+,,63350 · Travel,,Expense,,,,,,63350,,<Unassigned>
+,,63400 · Interest Expense,,Expense,,,,"Interest payments on business loans, credit card balances, or other business debt",,63400,,<Unassigned>
+,,64900 · Office Supplies,,Expense,,,,Office supplies expense,,64900,,<Unassigned>
+,,65000 · Wages,,Expense,,,,,,65000,,<Unassigned>
+,,65100 · Wages - Office Staff,,Expense,,,,,,65100,,<Unassigned>
+,,65140 · Payroll Tax Expenses,,Expense,,,,,,65140,,<Unassigned>
+,,65160 · Employee Benefits,,Expense,,,,,,65160,,<Unassigned>
+,,65170 · Employee Bonus,,Expense,,,,,,65170,,<Unassigned>
+,,65180 · Sick/Holiday & Vacation Pay,,Expense,,,,,,65180,,<Unassigned>
+,,66000 · Payroll Expenses,,Expense,,,,Payroll expenses,,66000,,<Unassigned>
+,,67100 · Rent Expense,,Expense,,,,Rent paid for company offices or other structures used in the business,,67100,,<Unassigned>
+,,67200 · Repairs and Maintenance,,Expense,,,,Incidental repairs and maintenance of business assets that do not add to the value or appreciably prolong its life,,67200,,<Unassigned>
+,,68000 · Taxes - Property,,Expense,,,,"Taxes paid on property owned by the business, franchise taxes, excise taxes, etc.",,68000,,<Unassigned>
+,,68100 · Telephone Expense,,Expense,,,,"Telephone and long distance charges, faxing, and other fees Not equipment purchases",,68100,,<Unassigned>
+,,68400 · Travel Expense,,Expense,,,,"Business-related travel expenses including airline tickets, taxi fares, hotel and other travel expenses",,68400,,<Unassigned>
+,,69700 · Utilities,,Expense,,,,"Water, electricity, garbage, and other basic utilities expenses",,69700,,<Unassigned>
+,,81000 · Interest Income,,Other Income,,,,,,81000,,<Unassigned>
+,,82000 · Early Payment Discounts,,Other Income,,,,Early Payment Discounts,,82000,,<Unassigned>
+,,80000 · Ask My Accountant,,Other Expense,,,,"Transactions to be discussed with accountant, consultant, or tax preparer",,80000,,<Unassigned>
+,,90000 · Other Expense,,Other Expense,,,,,,90000,,<Unassigned>
+,,90001 · Estimates,,Non-Posting,,,,"Estimates for jobs or projects. Customer proposals for work to be done, or items to be sold upon customer acceptance of the estimate",,90001,,<Unassigned>
+,,90100 · Purchase Orders,,Non-Posting,,,,Purchase orders specifying items ordered from vendors,,90100,,<Unassigned>
+,,90200 · Sales Orders,,Non-Posting,,,,"Orders from customers to be filled, work to be performed, or items to be shipped",,90200,,<Unassigned>

@@ -1,0 +1,2 @@
+importId,currency.id,fullName,isCustomer,invoiceSendingFormatSelect,firstName,titleSelect,partnerTypeSelect,name,partnerAddress_importId,mobilePhone,fixedPhone,emailAddress_importId,webSite,partnerAttrs,user.id,simpleFullName,partnerSeq_importId,companies
+CodySanders,148,Cody Sanders,true,emailpaper,Cody,1,2,Cody Sanders,CodySanders-PAD-0,,8645901678,CodySanders-email,,[object Object],1,Cody Sanders,1,1

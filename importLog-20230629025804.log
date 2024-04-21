@@ -1,0 +1,7 @@
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.axelor.apps.sale.db.SaleOrderLine] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='must not be null', propertyPath=productName, rootBeanClass=class com.axelor.apps.sale.db.SaleOrderLine, messageTemplate='{javax.validation.constraints.NotNull.message}'}
+]
+Total : 3 - Succeeded : 2 - Not null : 2
+Generated anomalies :1

@@ -1,0 +1,993 @@
+importId,addressL7Country.id,cityName,zip,state,addressL4,fullName
+ZANA-address-0,3,Chandler,85225,AZ,3280 N Colorado St,"3280 N Colorado St, CHANDLER, AZ 85225"
+ZANA-address-1,3,DELRAY BEACH,33444-4009,FL,24 NE 12TH ST,"24 NE 12TH ST, DELRAY BEACH, FL 33444-4009"
+RichardGruntzDDS-address-0,3,Arlington,22202,VA,"Attn: JilA
+1600 Crystal Square Arc #L","Attn: JilA
+1600 Crystal Square Arc #L, ARLINGTON, VA 22202"
+RichardGruntzDDS-address-1,3,Arlington,22202,VA,1600 Crystal Square Arc #L,"1600 Crystal Square Arc #L, ARLINGTON, VA 22202"
+Source1-NejayPaulineAnanaba-address-0,3,Chandler,85226,AZ,"Source1 dental
+3738 W. Commonwealth Ave.","Source1 dental
+3738 W. Commonwealth Ave., CHANDLER, AZ 85226"
+Source1-NejayPaulineAnanaba-address-1,3,PROSPER,75078-9840,TX,"STE 10
+790 N PRESTON RD","STE 10
+790 N PRESTON RD, PROSPER, TX 75078-9840"
+ZS-ProgressiveDental-Kirkwood-address-0,3,Kirkwood,13795,NY,1113 St. Rt. 11,"1113 St. Rt. 11, KIRKWOOD, NY 13795"
+ZS-ProgressiveDental-Kirkwood-address-1,3,KIRKWOOD,13795-,NY,1113 STATE ROUTE 11,"1113 STATE ROUTE 11, KIRKWOOD, NY 13795-"
+ZS-AdvCosmetic&GeneralDentistry:SP-address-0,3,SOMERS POINT,08244-2020,NJ,551 NEW RD,"551 NEW RD, SOMERS POINT, NJ 08244-2020"
+ZS-AdvCosmetic&GeneralDentistry:SP-address-1,3,MARGATE CITY,08402-2023,NJ,205 N CLARENDON AVE,"205 N CLARENDON AVE, MARGATE CITY, NJ 08402-2023"
+ZS-MoreSmilesDentalSpa-address-0,3,Covington,70433,LA,7007 U.S. Hwy 190,"7007 U.S. Hwy 190, COVINGTON, LA 70433"
+ZS-MoreSmilesDentalSpa-address-1,3,COVINGTON,70433-4955,LA,7007 HIGHWAY 190 EAST SERVICE RD,"7007 HIGHWAY 190 EAST SERVICE RD, COVINGTON, LA 70433-4955"
+ZS-UniversityAvenueDental-address-0,3,MUNCIE,47303-3863,IN,800 W UNIVERSITY AVE,"800 W UNIVERSITY AVE, MUNCIE, IN 47303-3863"
+ZS-UniversityAvenueDental-address-1,3,MUNCIE,47303-3863,IN,800 W UNIVERSITY AVE,"800 W UNIVERSITY AVE, MUNCIE, IN 47303-3863"
+DeltaDentalofIowa-TonyDavis-address-0,3,Johnston,50131,IA,9000 Northpark Drive,"9000 Northpark Drive, JOHNSTON, IA 50131"
+DeltaDentalofIowa-TonyDavis-address-1,3,,,,TBD,"TBD, ,  "
+ZS-AdvCosmetic&GeneralDentistry:ML-address-0,3,Mays Landing,8330,NJ,4705 Harding Highway,"4705 Harding Highway, MAYS LANDING, NJ 8330"
+ZS-AdvCosmetic&GeneralDentistry:ML-address-1,3,Mays Landing,8330,NJ,"4705 Harding Highway
+#1","4705 Harding Highway
+#1, MAYS LANDING, NJ 8330"
+ZS-WestgateDental(formerlyS.O.H.-address-0,3,Windsor Heights,50324,IA,7506 Hickman Rd,"7506 Hickman Rd, WINDSOR HEIGHTS, IA 50324"
+ZS-WestgateDental(formerlyS.O.H.-address-1,3,Windsor Heights,50324,IA,7506 Hickman Rd,"7506 Hickman Rd, WINDSOR HEIGHTS, IA 50324"
+ZS-UrbandaleSmiles-address-0,3,Urbandale,50322,IA,8078 Douglas Ave,"8078 Douglas Ave, URBANDALE, IA 50322"
+ZS-UrbandaleSmiles-address-1,3,Urbandale,50322,IA,8078 Douglas Ave,"8078 Douglas Ave, URBANDALE, IA 50322"
+ZS-ProgressiveDental-Endwell-address-0,3,Endwell,13760,NY,565 Hooper Rd,"565 Hooper Rd, ENDWELL, NY 13760"
+ZS-ProgressiveDental-Endwell-address-1,3,Endwell,13760,NY,565 Hooper Rd,"565 Hooper Rd, ENDWELL, NY 13760"
+ZS-ProgressiveDental-Montrose-address-0,3,Montrose,18801,PA,57 Public Ave.,"57 Public Ave., MONTROSE, PA 18801"
+ZS-ProgressiveDental-Montrose-address-1,3,Montrose,18801,PA,57 Public Ave.,"57 Public Ave., MONTROSE, PA 18801"
+ZS-ProgressiveDental-Binghamton-address-0,3,Binghamton,13905,NY,51 Front St.,"51 Front St., BINGHAMTON, NY 13905"
+ZS-ProgressiveDental-Binghamton-address-1,3,Binghamton,13905,NY,51 Front St.,"51 Front St., BINGHAMTON, NY 13905"
+DeltaDentalofPennsylvania-JudySmith-address-0,3,San Francisco,94105,CA,"Delta Dental of California
+560 Mission Street, Suite 1300","Delta Dental of California
+560 Mission Street, Suite 1300, SAN FRANCISCO, CA 94105"
+DeltaDentalofPennsylvania-JudySmith-address-1,3,SAN FRANCISCO,94105-0938,CA,"STE 1300
+560 MISSION ST","STE 1300
+560 MISSION ST, SAN FRANCISCO, CA 94105-0938"
+DeltaDentalofIowa:RyanBlackard-address-0,3,JOHNSTON,50131-4817,IA,9000 NORTHPARK DR,"9000 NORTHPARK DR, JOHNSTON, IA 50131-4817"
+DeltaDentalofIowa:RyanBlackard-address-1,3,JOHNSTON,50131-4817,IA,2000 Main St,"2000 Main St, JOHNSTON, IA 50131-4817"
+WendyAlpaugh-SEEBRIANvee-Emmerik-address-0,3,Stonington,4681,,"+12073672631
+orders@zdental.com
+356 Airport Rd","+12073672631
+orders@zdental.com
+356 Airport Rd, STONINGTON,  4681"
+WendyAlpaugh-SEEBRIANvee-Emmerik-address-1,3,Stonington,4681,ME,356 Airport Rd,"356 Airport Rd, STONINGTON, ME 4681"
+KathyLoose-address-0,3,DAVENPORT,52803-2603,IA,"5635280917
+ksloose@aol.com
+2303 BRADY ST","5635280917
+ksloose@aol.com
+2303 BRADY ST, DAVENPORT, IA 52803-2603"
+KathyLoose-address-1,3,DAVENPORT,52803-2603,IA,2303 BRADY ST,"2303 BRADY ST, DAVENPORT, IA 52803-2603"
+AnthonyPalladino-address-0,3,Brielle,8730,NJ,"7326164655
+avpalladinojr@gmail.com
+602 Oceanview Rd","7326164655
+avpalladinojr@gmail.com
+602 Oceanview Rd, BRIELLE, NJ 8730"
+AnthonyPalladino-address-1,3,Brielle,8730,NJ,"7326164655
+602 Oceanview Rd","7326164655
+602 Oceanview Rd, BRIELLE, NJ 8730"
+KatinkaNewell-address-0,3,Medway,2053,MA,"6176206291
+knewell3@verizon.net
+17 Ohlson Circle","6176206291
+knewell3@verizon.net
+17 Ohlson Circle, MEDWAY, MA 2053"
+KatinkaNewell-address-1,3,MEDWAY,02053-2012,MA,17 OHLSON CIR,"17 OHLSON CIR, MEDWAY, MA 02053-2012"
+TraceyStrausbaugh-address-0,3,Plymouth,2360,MA,"3398324331
+southerntrace2@yahoo.com
+49 Justine Avenue","3398324331
+southerntrace2@yahoo.com
+49 Justine Avenue, PLYMOUTH, MA 2360"
+TraceyStrausbaugh-address-1,3,PLYMOUTH,02360-6221,MA,49 JUSTINE AVE,"49 JUSTINE AVE, PLYMOUTH, MA 02360-6221"
+MarieBurns-address-0,3,Phoenix,85045,AZ,"6027693219
+jmburns6@hotmail.com
+16638 S 15th Drive","6027693219
+jmburns6@hotmail.com
+16638 S 15th Drive, PHOENIX, AZ 85045"
+MarieBurns-address-1,3,PHOENIX,85045-0771,AZ,16638 S 15TH DR,"16638 S 15TH DR, PHOENIX, AZ 85045-0771"
+IvoneFernandez-address-0,3,ostrville,2655,MA,"5614000748
+isalves@me.com
+831 sea view ave","5614000748
+isalves@me.com
+831 sea view ave, OSTRVILLE, MA 2655"
+IvoneFernandez-address-1,3,OSTERVILLE,02655-2423,MA,831 SEA VIEW AVE,"831 SEA VIEW AVE, OSTERVILLE, MA 02655-2423"
+AnnMariePasic-address-0,3,Petersham,1306,MA,"978 724 3551
+robertpasic@yahoo.com
+147 Nichewaug Road","978 724 3551
+robertpasic@yahoo.com
+147 Nichewaug Road, PETERSHAM, MA 1306"
+AnnMariePasic-address-1,3,PETERSHAM,01366-9733,MA,147 NICHEWAUG RD,"147 NICHEWAUG RD, PETERSHAM, MA 01366-9733"
+SallyWhitney-address-0,3,West Hyannisport,2672,MA,"5082774130
+sal.haugen@comcast.net
+P.O. Box 618","5082774130
+sal.haugen@comcast.net
+P.O. Box 618, WEST HYANNISPORT, MA 2672"
+SallyWhitney-address-1,3,W HYANNISPORT,02672-0618,MA,PO BOX 618,"PO BOX 618, W HYANNISPORT, MA 02672-0618"
+MelissaScheuer-address-0,3,Downingtown,19335,PA,"9192744374
+mscheuer@incyte.com
+34 Emma Court","9192744374
+mscheuer@incyte.com
+34 Emma Court, DOWNINGTOWN, PA 19335"
+MelissaScheuer-address-1,3,DOWNINGTOWN,19335-4991,PA,34 EMMA CT,"34 EMMA CT, DOWNINGTOWN, PA 19335-4991"
+MarkAmero-address-0,3,Gloucester,1930,MA,"9787883912
+maklis@yahoo.com
+7 riverview rd","9787883912
+maklis@yahoo.com
+7 riverview rd, GLOUCESTER, MA 1930"
+MarkAmero-address-1,3,GLOUCESTER,01930-1613,MA,7 RIVERVIEW RD,"7 RIVERVIEW RD, GLOUCESTER, MA 01930-1613"
+RebeccaKingma-address-0,3,Frankfort,60423,IL,"8153704342
+rlbolhuis@gmail.com
+171 Sycamore Ln","8153704342
+rlbolhuis@gmail.com
+171 Sycamore Ln, FRANKFORT, IL 60423"
+RebeccaKingma-address-1,3,FRANKFORT,60423-1536,IL,171 SYCAMORE LN,"171 SYCAMORE LN, FRANKFORT, IL 60423-1536"
+GeraldHanrahan-address-0,3,Duxbury,2332,MA,"7813368781
+jhdux@comcast.net
+19 Old Cove Road","7813368781
+jhdux@comcast.net
+19 Old Cove Road, DUXBURY, MA 2332"
+GeraldHanrahan-address-1,3,DUXBURY,02332-3901,MA,19 OLD COVE RD,"19 OLD COVE RD, DUXBURY, MA 02332-3901"
+JaneWinarta-address-0,3,portland,4103,ME,"6034214670
+jwinarta@portlandmaine.gov
+53 Elmwood St apt 2","6034214670
+jwinarta@portlandmaine.gov
+53 Elmwood St apt 2, PORTLAND, ME 4103"
+JaneWinarta-address-1,3,PORTLAND,04103-3319,ME,"APT 2
+53 ELMWOOD ST","APT 2
+53 ELMWOOD ST, PORTLAND, ME 04103-3319"
+WilliamMiles-address-0,3,Ashland,1721,MA,"5083803076
+bd97@comcast.net
+97 Sudbury Road","5083803076
+bd97@comcast.net
+97 Sudbury Road, ASHLAND, MA 1721"
+WilliamMiles-address-1,3,ASHLAND,01721-1156,MA,97 SUDBURY RD,"97 SUDBURY RD, ASHLAND, MA 01721-1156"
+JennieLeBlanc-address-0,3,Arlington,2474,MA,"781-646-1204
+jenal1944@yahoo.com
+733 Summer St","781-646-1204
+jenal1944@yahoo.com
+733 Summer St, ARLINGTON, MA 2474"
+JennieLeBlanc-address-1,3,ARLINGTON,02474-2425,MA,733 SUMMER ST,"733 SUMMER ST, ARLINGTON, MA 02474-2425"
+MicheleSisson-White-address-0,3,Columbia,65203,MO,"5732562135
+msissonwhite@yahoo.com
+1603 Merideth Dr","5732562135
+msissonwhite@yahoo.com
+1603 Merideth Dr, COLUMBIA, MO 65203"
+MicheleSisson-White-address-1,3,COLUMBIA,65203-6002,MO,1603 MERIDETH DR,"1603 MERIDETH DR, COLUMBIA, MO 65203-6002"
+MelissaStewart-address-0,3,Louisville,40299,KY,"5027273913
+mbs.avon@gmail.com
+14007 LaClara Way","5027273913
+mbs.avon@gmail.com
+14007 LaClara Way, LOUISVILLE, KY 40299"
+MelissaStewart-address-1,3,LOUISVILLE,40299-5089,KY,14007 LACLARA WAY,"14007 LACLARA WAY, LOUISVILLE, KY 40299-5089"
+JenniferParker-address-0,3,Gloucester,1930,MA,"9784575194
+jendream62@gmail.com
+66 FRIEND ST, APT 2","9784575194
+jendream62@gmail.com
+66 FRIEND ST, APT 2, GLOUCESTER, MA 1930"
+JenniferParker-address-1,3,GLOUCESTER,01930-2904,MA,"APT 2
+66 FRIEND ST","APT 2
+66 FRIEND ST, GLOUCESTER, MA 01930-2904"
+JoyceGiebel-address-0,3,Pittsburgh,15237,PA,"14124456457
+jgiebel@comcast.net
+1102 Charlemagne Circle","14124456457
+jgiebel@comcast.net
+1102 Charlemagne Circle, PITTSBURGH, PA 15237"
+JoyceGiebel-address-1,3,PITTSBURGH,15237-2901,PA,1102 CHARLEMAGNE CIR,"1102 CHARLEMAGNE CIR, PITTSBURGH, PA 15237-2901"
+DonnaPalermino-address-0,3,Cambridge,2139,MA,"6178359367
+donna.palermino@verizon.net
+15 Maple Ave.","6178359367
+donna.palermino@verizon.net
+15 Maple Ave., CAMBRIDGE, MA 2139"
+DonnaPalermino-address-1,3,CAMBRIDGE,02139-1115,MA,15 MAPLE AVE,"15 MAPLE AVE, CAMBRIDGE, MA 02139-1115"
+DeniseDâ€™Esposito-address-0,3,Asbury Park,7712,NJ,"7327662909
+despo16@msn.com
+610 Sewall Ave., 11R","7327662909
+despo16@msn.com
+610 Sewall Ave., 11R, ASBURY PARK, NJ 7712"
+DeniseDâ€™Esposito-address-1,3,ASBURY PARK,07712-6551,NJ,"APT 11R
+610 SEWALL AVE","APT 11R
+610 SEWALL AVE, ASBURY PARK, NJ 07712-6551"
+AlesaGibson-address-0,3,Dallas,75205,TX,"2147974858
+alesagibson@gmail.com
+3620 Rosedale Avenue","2147974858
+alesagibson@gmail.com
+3620 Rosedale Avenue, DALLAS, TX 75205"
+AlesaGibson-address-1,3,DALLAS,75205-1228,TX,3620 ROSEDALE AVE,"3620 ROSEDALE AVE, DALLAS, TX 75205-1228"
+StevenPannullo-address-0,3,Johnston,2919,RI,"4016633588
+twotimothy24@gmail.com
+1 Steere st","4016633588
+twotimothy24@gmail.com
+1 Steere st, JOHNSTON, RI 2919"
+StevenPannullo-address-1,3,JOHNSTON,02919-2028,RI,1 STEERE ST,"1 STEERE ST, JOHNSTON, RI 02919-2028"
+LucilleTillman-address-0,3,Methuen,1844,MA,"7816403866
+ceiltillman@Yahoo.com
+26 Merrimack St","7816403866
+ceiltillman@Yahoo.com
+26 Merrimack St, METHUEN, MA 1844"
+LucilleTillman-address-1,3,METHUEN,01844-7714,MA,26 MERRIMACK ST,"26 MERRIMACK ST, METHUEN, MA 01844-7714"
+KennethKevorkian-address-0,3,Marstons Mills,2648,MA,"5087767374
+kenpk@comcast.net
+109 School St","5087767374
+kenpk@comcast.net
+109 School St, MARSTONS MILLS, MA 2648"
+KennethKevorkian-address-1,3,MARSTONS MLS,02648-1022,MA,109 SCHOOL ST,"109 SCHOOL ST, MARSTONS MLS, MA 02648-1022"
+NancySepulveda-address-0,3,Maynard,1754,MA,"9787287977
+nancholara@hotmail.com
+1 George Rd.","9787287977
+nancholara@hotmail.com
+1 George Rd., MAYNARD, MA 1754"
+NancySepulveda-address-1,3,MAYNARD,01754-1007,MA,1 GEORGE RD,"1 GEORGE RD, MAYNARD, MA 01754-1007"
+JamesDion-address-0,3,Berkley,2779,MA,"6179108524
+jamescdion@gmail.com
+744 Berkley St","6179108524
+jamescdion@gmail.com
+744 Berkley St, BERKLEY, MA 2779"
+JamesDion-address-1,3,BERKLEY,02779-1907,MA,744 BERKLEY ST,"744 BERKLEY ST, BERKLEY, MA 02779-1907"
+RebeccaJordan-address-0,3,Mason,76856,TX,"8177987075
+runner763@gmail.com
+1414 Walters Rd #409","8177987075
+runner763@gmail.com
+1414 Walters Rd #409, MASON, TX 76856"
+RebeccaJordan-address-1,3,MASON,76856-0409,TX,PO BOX 409,"PO BOX 409, MASON, TX 76856-0409"
+AnnOakes-address-0,3,FORT LAUDERDALE,33326-1651,FL,"9547067118
+ABOAKES@COMCAST.NET
+16175 GOLF CLUB RD APT 210","9547067118
+ABOAKES@COMCAST.NET
+16175 GOLF CLUB RD APT 210, FORT LAUDERDALE, FL 33326-1651"
+AnnOakes-address-1,3,FOXBORO,02035-1605,MA,10 AUSTIN LN,"10 AUSTIN LN, FOXBORO, MA 02035-1605"
+GregoryRomero-address-0,3,Albuquerque,87104,NM,"5052745082
+romero3800@gmail.com
+1716 Central Ave SW","5052745082
+romero3800@gmail.com
+1716 Central Ave SW, ALBUQUERQUE, NM 87104"
+GregoryRomero-address-1,3,ALBUQUERQUE,87104-1179,NM,1716 CENTRAL AVE SW,"1716 CENTRAL AVE SW, ALBUQUERQUE, NM 87104-1179"
+SatishGurung-address-0,3,middle village,11379,NY,"7185931830
+satishgurung29@gmail.com
+6042 74th st","7185931830
+satishgurung29@gmail.com
+6042 74th st, MIDDLE VILLAGE, NY 11379"
+SatishGurung-address-1,3,MIDDLE VLG,11379-5218,NY,6042 74TH ST,"6042 74TH ST, MIDDLE VLG, NY 11379-5218"
+MaidliP.HIll-address-0,3,Marlborough,3455,NH,"16032094983
+maidli@hillspecialty.com
+514 Stone Pond Road","16032094983
+maidli@hillspecialty.com
+514 Stone Pond Road, MARLBOROUGH, NH 3455"
+MaidliP.HIll-address-1,3,MARLBOROUGH,03455-2608,NH,514 STONE POND RD,"514 STONE POND RD, MARLBOROUGH, NH 03455-2608"
+DanteRusso-address-0,3,Hudson,12534,NY,"3238042641
+danterusso@gmail.com
+11 N 7th Street, Apt 3","3238042641
+danterusso@gmail.com
+11 N 7th Street, Apt 3, HUDSON, NY 12534"
+DanteRusso-address-1,3,HUDSON,12534-2520,NY,"APT 3
+11 N 7TH ST","APT 3
+11 N 7TH ST, HUDSON, NY 12534-2520"
+IreneTheiss-address-0,3,Eugene,97402,OR,"5419543046
+m.theiss@datalogic.com
+1356 Hughes St.","5419543046
+m.theiss@datalogic.com
+1356 Hughes St., EUGENE, OR 97402"
+IreneTheiss-address-1,3,EUGENE,97402-1605,OR,1356 HUGHES ST,"1356 HUGHES ST, EUGENE, OR 97402-1605"
+DhruvMadan-address-0,3,North Attleboro,2760,MA,"7742036946
+Dhruv.madan05@gmail.com
+49 John C Porter Way","7742036946
+Dhruv.madan05@gmail.com
+49 John C Porter Way, NORTH ATTLEBORO, MA 2760"
+DhruvMadan-address-1,3,N ATTLEBORO,02760-6713,MA,49 JOHN C PORTER WAY,"49 JOHN C PORTER WAY, N ATTLEBORO, MA 02760-6713"
+KathleenThomas-address-0,3,Mashpee,2649,MA,"7742388225
+kathleenthomastriath@gmail.com
+33 Angelos Way","7742388225
+kathleenthomastriath@gmail.com
+33 Angelos Way, MASHPEE, MA 2649"
+KathleenThomas-address-1,3,MASHPEE,02649-3064,MA,33 ANGELOS WAY,"33 ANGELOS WAY, MASHPEE, MA 02649-3064"
+PaulPaddock-address-0,3,East Sandwich,2537,MA,"5087769746
+ppaddock222@gmail.com
+46 Crestview Drive","5087769746
+ppaddock222@gmail.com
+46 Crestview Drive, EAST SANDWICH, MA 2537"
+PaulPaddock-address-1,3,EAST SANDWICH,02537-1464,MA,46 CRESTVIEW DR,"46 CRESTVIEW DR, EAST SANDWICH, MA 02537-1464"
+lindaBrown-address-0,3,Chelmsford,1824,MA,"9787269616
+linbro9730@gmail.com
+110 Kristin drive Ext.","9787269616
+linbro9730@gmail.com
+110 Kristin drive Ext., CHELMSFORD, MA 1824"
+lindaBrown-address-1,3,CHELMSFORD,01824-4722,MA,110 KRISTIN DRIVE EXT,"110 KRISTIN DRIVE EXT, CHELMSFORD, MA 01824-4722"
+ClairePinardi-address-0,3,Raynham,2767,MA,"5085772205
+cmpinardi12@gmail.com
+210 Park Pl","5085772205
+cmpinardi12@gmail.com
+210 Park Pl, RAYNHAM, MA 2767"
+ClairePinardi-address-1,3,RAYNHAM,02767-8007,MA,210 PARK PL,"210 PARK PL, RAYNHAM, MA 02767-8007"
+BenjaminHaglund-address-0,3,Califon,7830,NJ,"9734524834
+bengeorgia@comcast.net
+2 Terrill Drive","9734524834
+bengeorgia@comcast.net
+2 Terrill Drive, CALIFON, NJ 7830"
+BenjaminHaglund-address-1,3,CALIFON,07830-3443,NJ,2 TERRILL DR,"2 TERRILL DR, CALIFON, NJ 07830-3443"
+EdwardLake-address-0,3,Hingham,2043,MA,"7817494968
+edward.lake@comcast.net
+35 Prospect Street","7817494968
+edward.lake@comcast.net
+35 Prospect Street, HINGHAM, MA 2043"
+EdwardLake-address-1,3,HINGHAM,02043-3427,MA,35 PROSPECT ST,"35 PROSPECT ST, HINGHAM, MA 02043-3427"
+KimberlyFrench-address-0,3,Norwood,2062,MA,"6178356374
+kimberly_french@hotmail.com
+28 3rd Street","6178356374
+kimberly_french@hotmail.com
+28 3rd Street, NORWOOD, MA 2062"
+KimberlyFrench-address-1,3,NORWOOD,02062-4857,MA,28 3RD ST,"28 3RD ST, NORWOOD, MA 02062-4857"
+cherylelzea-address-0,3,Frederic,54837,WI,"6128015832
+elzeaa@gmail.com
+22820 Johnson Rd","6128015832
+elzeaa@gmail.com
+22820 Johnson Rd, FREDERIC, WI 54837"
+cherylelzea-address-1,3,FREDERIC,54837-9200,WI,22820 JOHNSON RD,"22820 JOHNSON RD, FREDERIC, WI 54837-9200"
+ChristopherCaroleo-address-0,3,SPRNGFLD GDNS,11413-3023,NY,18114 140TH AVE,"18114 140TH AVE, SPRNGFLD GDNS, NY 11413-3023"
+ChristopherCaroleo-address-1,3,SPRNGFLD GDNS,11413-3023,NY,18114 140TH AVE,"18114 140TH AVE, SPRNGFLD GDNS, NY 11413-3023"
+CarolinePapanikolaou-address-0,3,San Antonio,78240,TX,"78240
+hollandcbc@outlook.com
+5535 Painter Green","78240
+hollandcbc@outlook.com
+5535 Painter Green, SAN ANTONIO, TX 78240"
+CarolinePapanikolaou-address-1,3,SAN ANTONIO,78240-3144,TX,5535 PAINTER GRN,"5535 PAINTER GRN, SAN ANTONIO, TX 78240-3144"
+JayEsty-address-0,3,Andover,1810,MA,"9785001706
+jayesty1@gmail.com
+173 Main St","9785001706
+jayesty1@gmail.com
+173 Main St, ANDOVER, MA 1810"
+JayEsty-address-1,3,ANDOVER,01810-4113,MA,173 MAIN ST,"173 MAIN ST, ANDOVER, MA 01810-4113"
+RebeccaGranger-address-0,3,Belen,87002,NM,"5053501035
+raoterogranger@santafecountynm.gov
+1504 North Mesa Rd","5053501035
+raoterogranger@santafecountynm.gov
+1504 North Mesa Rd, BELEN, NM 87002"
+RebeccaGranger-address-1,3,BELEN,87002-8528,NM,1504 N MESA RD,"1504 N MESA RD, BELEN, NM 87002-8528"
+ChadTherrien-address-0,3,North Adams,1247,MA,"4136524445
+therrienchad@yahoo.com
+80 Franklin St","4136524445
+therrienchad@yahoo.com
+80 Franklin St, NORTH ADAMS, MA 1247"
+ChadTherrien-address-1,3,NORTH ADAMS,01247-2718,MA,80 FRANKLIN ST,"80 FRANKLIN ST, NORTH ADAMS, MA 01247-2718"
+AmberAyers-address-0,3,Gaithersburg,20879,MD,"6034258154
+acapone06@gmail.com
+11111 Black Forest Way","6034258154
+acapone06@gmail.com
+11111 Black Forest Way, GAITHERSBURG, MD 20879"
+AmberAyers-address-1,3,GAITHERSBURG,20879-3154,MD,11111 BLACK FOREST WAY,"11111 BLACK FOREST WAY, GAITHERSBURG, MD 20879-3154"
+SuzieBaldwin-address-0,3,Blairstown,7825,NJ,"9083109702
+andientreysmom@aol.com
+10 Deer Run","9083109702
+andientreysmom@aol.com
+10 Deer Run, BLAIRSTOWN, NJ 7825"
+SuzieBaldwin-address-1,3,BLAIRSTOWN,07825-9315,NJ,10 DEER RUN,"10 DEER RUN, BLAIRSTOWN, NJ 07825-9315"
+SarahOâ€™Day-address-0,3,Hingham,2043,MA,"2039276054
+sw546637@gmail.com
+350 Beal St, 2249","2039276054
+sw546637@gmail.com
+350 Beal St, 2249, HINGHAM, MA 2043"
+SarahOâ€™Day-address-1,3,HINGHAM,02043-1882,MA,"APT 2249
+350 BEAL ST","APT 2249
+350 BEAL ST, HINGHAM, MA 02043-1882"
+patriciahagan-address-0,3,Burlington,1803,MA,"7812704061
+hagan143@verizon.net
+143 Mill Street","7812704061
+hagan143@verizon.net
+143 Mill Street, BURLINGTON, MA 1803"
+patriciahagan-address-1,3,BURLINGTON,01803-1858,MA,143 MILL ST,"143 MILL ST, BURLINGTON, MA 01803-1858"
+Terryaustin-address-0,3,Arimo,83214,ID,"8017551302
+tha51@aol.com
+15316 S Hawkins Rd","8017551302
+tha51@aol.com
+15316 S Hawkins Rd, ARIMO, ID 83214"
+Terryaustin-address-1,3,ARIMO,83214-1547,ID,15316 S HAWKINS RD,"15316 S HAWKINS RD, ARIMO, ID 83214-1547"
+AmySchroeder-address-0,3,Danvers,1923,MA,"9785784147
+amymschroeder@hotmail.com
+24 Garfield Ave","9785784147
+amymschroeder@hotmail.com
+24 Garfield Ave, DANVERS, MA 1923"
+AmySchroeder-address-1,3,DANVERS,01923-3408,MA,24 GARFIELD AVE,"24 GARFIELD AVE, DANVERS, MA 01923-3408"
+GinaOâ€™Neil-address-0,3,West Boylston,1583,MA,"5084946913
+gin224@yahoo.com
+118 Laurel Street","5084946913
+gin224@yahoo.com
+118 Laurel Street, WEST BOYLSTON, MA 1583"
+GinaOâ€™Neil-address-1,3,WEST BOYLSTON,01583-1514,MA,118 LAUREL ST,"118 LAUREL ST, WEST BOYLSTON, MA 01583-1514"
+JoAnnAbeyta-address-0,3,Albuquerque,87102,NM,"505 242 0629
+bajaantiques@hotmail.com
+212 13th Street NW","505 242 0629
+bajaantiques@hotmail.com
+212 13th Street NW, ALBUQUERQUE, NM 87102"
+JoAnnAbeyta-address-1,3,ALBUQUERQUE,87102-1832,NM,212 13TH ST NW,"212 13TH ST NW, ALBUQUERQUE, NM 87102-1832"
+VanessaBerrios-address-0,3,Franklin,2038,MA,"6146469326
+berrios96@yahoo.com
+124 King St","6146469326
+berrios96@yahoo.com
+124 King St, FRANKLIN, MA 2038"
+VanessaBerrios-address-1,3,Franklin,2038,MA,"6146469326
+124 King St","6146469326
+124 King St, FRANKLIN, MA 2038"
+SarabKhurana-address-0,3,SARASOTA,34231,FL,"6502231607
+skkh7475@gmail.com
+2433 WHIPPOORWILL CIR","6502231607
+skkh7475@gmail.com
+2433 WHIPPOORWILL CIR, SARASOTA, FL 34231"
+SarabKhurana-address-1,3,SARASOTA,34231,FL,"6502231607
+2433 WHIPPOORWILL CIR","6502231607
+2433 WHIPPOORWILL CIR, SARASOTA, FL 34231"
+ANDRELLSANDERS-address-0,3,IOWA CITY,52246,IA,"888-228-7706
+orders@zdental.com
+2556 SYLVAN GLEN CT.","888-228-7706
+orders@zdental.com
+2556 SYLVAN GLEN CT., IOWA CITY, IA 52246"
+ANDRELLSANDERS-address-1,3,IOWA CITY,52246,IA,"888-228-7706
+2556 SYLVAN GLEN CT.","888-228-7706
+2556 SYLVAN GLEN CT., IOWA CITY, IA 52246"
+DanielleSarmir-address-0,3,Yarmouth,4096,ME,"5712128771
+danielle1124s@gmail.com
+490 Portland St.,","5712128771
+danielle1124s@gmail.com
+490 Portland St.,, YARMOUTH, ME 4096"
+DanielleSarmir-address-1,3,Yarmouth,4096,ME,"5712128771
+490 Portland St.,","5712128771
+490 Portland St.,, YARMOUTH, ME 4096"
+ShilaOâ€™Reilly-address-0,3,Chelmsford,1824,MA,"5082439358
+shill51@hotmail.com
+14 Pine St","5082439358
+shill51@hotmail.com
+14 Pine St, CHELMSFORD, MA 1824"
+ShilaOâ€™Reilly-address-1,3,Chelmsford,1824,MA,14 Pine St,"14 Pine St, CHELMSFORD, MA 1824"
+TheressCurley-address-0,3,Malden,2148,MA,"7812495260
+tcurley36@aol.com
+36 Chester Street","7812495260
+tcurley36@aol.com
+36 Chester Street, MALDEN, MA 2148"
+TheressCurley-address-1,3,York,3909,ME,"7812495260
+3 Norton Ave extension","7812495260
+3 Norton Ave extension, YORK, ME 3909"
+JoelOst-address-0,3,Chandler,85225,AZ,"8004325854
+j.ost@zdental.com
+3280 N Colorado St","8004325854
+j.ost@zdental.com
+3280 N Colorado St, CHANDLER, AZ 85225"
+JoelOst-address-1,3,Chandler,85225,AZ,"8004325854
+3280 N Colorado St","8004325854
+3280 N Colorado St, CHANDLER, AZ 85225"
+KerryOâ€™Connor-address-0,3,Boston,2116,MA,"3153454224
+kerryaoconnor1@gmail.com
+187 Warren Ave","3153454224
+kerryaoconnor1@gmail.com
+187 Warren Ave, BOSTON, MA 2116"
+KerryOâ€™Connor-address-1,3,Boston,2116,MA,"3153454224
+187 Warren Ave","3153454224
+187 Warren Ave, BOSTON, MA 2116"
+cathywu-address-0,3,salem,3079,NH,"6038678808
+cathymingzi@gmail.com
+40 lake st","6038678808
+cathymingzi@gmail.com
+40 lake st, SALEM, NH 3079"
+cathywu-address-1,3,salem,3079,NH,"6038678808
+40 lake st","6038678808
+40 lake st, SALEM, NH 3079"
+BrunswickDentalHealth-address-0,3,Brunswick,4011,ME,"Dr. Peter LeBourdais DMD
+Attn:  Rosanne Woodbury
+27  Baribeau Dr.","Dr. Peter LeBourdais DMD
+Attn:  Rosanne Woodbury
+27  Baribeau Dr., BRUNSWICK, ME 4011"
+BrunswickDentalHealth-address-1,3,Brunswick,4011,ME,"Dr. Peter LeBourdais
+27  Baribeau Dr.","Dr. Peter LeBourdais
+27  Baribeau Dr., BRUNSWICK, ME 4011"
+MarkStauffer.-address-0,3,bloomington,47403,IN,"8123618113
+mastausfer@bluemarble.net
+5090 south harmony rd","8123618113
+mastausfer@bluemarble.net
+5090 south harmony rd, BLOOMINGTON, IN 47403"
+MarkStauffer.-address-1,3,bloomington,47403,IN,"8123618113
+5090 south harmony rd","8123618113
+5090 south harmony rd, BLOOMINGTON, IN 47403"
+JuanthRodrÃ­guez-address-0,3,Brookline,2445,MA,"6172586334
+nice126@gmail.com
+30 Bowker St","6172586334
+nice126@gmail.com
+30 Bowker St, BROOKLINE, MA 2445"
+JuanthRodrÃ­guez-address-1,3,Brookline,2445,MA,"6172586334
+30 Bowker St","6172586334
+30 Bowker St, BROOKLINE, MA 2445"
+JosephDellalong-address-0,3,albuquerque,87111,NM,"5052948533
+joedabq@gmail.com
+13532 cedar brooke ave","5052948533
+joedabq@gmail.com
+13532 cedar brooke ave, ALBUQUERQUE, NM 87111"
+JosephDellalong-address-1,3,albuquerque,87111,NM,"5052948533
+13532 cedar brooke ave","5052948533
+13532 cedar brooke ave, ALBUQUERQUE, NM 87111"
+JuliÃ¡nNeriVega-address-0,3,Wilder,83676,ID,"2086005881
+nerilaura01@icloud.com
+628 Prince Ave","2086005881
+nerilaura01@icloud.com
+628 Prince Ave, WILDER, ID 83676"
+JuliÃ¡nNeriVega-address-1,3,Wilder,83676,ID,"2086005881
+628 Prince Ave","2086005881
+628 Prince Ave, WILDER, ID 83676"
+JoelBOst-address-0,3,Chandler,85225,AZ,"9563699929
+joelost@hotmail.com
+100 W Nopal Pl","9563699929
+joelost@hotmail.com
+100 W Nopal Pl, CHANDLER, AZ 85225"
+JoelBOst-address-1,3,Chandler,85225,AZ,"9563699929
+100 W Nopal Pl","9563699929
+100 W Nopal Pl, CHANDLER, AZ 85225"
+LeighAnnOâ€™Connor-address-0,3,Stoneham,2180,MA,"9788668741
+ldudek5@gmail.com
+195 Collincote st
+Apt 207","9788668741
+ldudek5@gmail.com
+195 Collincote st
+Apt 207, STONEHAM, MA 2180"
+LeighAnnOâ€™Connor-address-1,3,Stoneham,2180,MA,"195 Collincote st
+Apt 207","195 Collincote st
+Apt 207, STONEHAM, MA 2180"
+CappelloRegina-address-0,3,Albuquerque,87120,NM,"5055144518
+rvcappello@gmail.com
+6000 Bear Claw Rd NW","5055144518
+rvcappello@gmail.com
+6000 Bear Claw Rd NW, ALBUQUERQUE, NM 87120"
+CappelloRegina-address-1,3,Albuquerque,87120,NM,6000 Bear Claw Rd NW,"6000 Bear Claw Rd NW, ALBUQUERQUE, NM 87120"
+AngelaEllis1-address-0,3,Scottsdale,85251,AZ,"6025311256
+ellis_shopping@me.com
+4400 N Scottsdale Rd","6025311256
+ellis_shopping@me.com
+4400 N Scottsdale Rd, SCOTTSDALE, AZ 85251"
+AngelaEllis1-address-1,3,Scottsdale,85251,AZ,4400 N Scottsdale Rd,"4400 N Scottsdale Rd, SCOTTSDALE, AZ 85251"
+ChristineDelolio-address-0,3,WORCESTER,01604-2891,MA,1 VERDI RD,"1 VERDI RD, WORCESTER, MA 01604-2891"
+ChristineDelolio-address-1,3,WORCESTER,01604-2891,MA,1 VERDI RD,"1 VERDI RD, WORCESTER, MA 01604-2891"
+TELAMONCORPORATION-address-0,3,Eden Prairie MI,55344,,"Concur Invoice Capture
+10700 Prairie Lakes Drive","Concur Invoice Capture
+10700 Prairie Lakes Drive, EDEN PRAIRIE MI,  55344"
+TELAMONCORPORATION-address-1,3,Raleigh,27601,NC,"Lisa Horton-Burt
+568 E Lenior Street, Home Base # 213","Lisa Horton-Burt
+568 E Lenior Street, Home Base # 213, RALEIGH, NC 27601"
+NataliyaJumonvilleDMD-address-0,3,Scottsdale,85254,AZ,"Daniel H. Garrett DDS
+Attn:  Cory
+4921 E. Bell Rd, Ste 108","Daniel H. Garrett DDS
+Attn:  Cory
+4921 E. Bell Rd, Ste 108, SCOTTSDALE, AZ 85254"
+NataliyaJumonvilleDMD-address-1,3,Scottsdale,85254,AZ,"Daniel H. Garrett DDS
+Attn:  Cory
+4921 E. Bell Rd, Ste 108","Daniel H. Garrett DDS
+Attn:  Cory
+4921 E. Bell Rd, Ste 108, SCOTTSDALE, AZ 85254"
+NoodleSoup-SeeCydneyWeingart-address-0,3,CLEVELAND,44103-4377,OH,"STE 328
+4614 PROSPECT AVE","STE 328
+4614 PROSPECT AVE, CLEVELAND, OH 44103-4377"
+NoodleSoup-SeeCydneyWeingart-address-1,3,CLEVELAND,44103-4377,OH,"STE 328
+4614 PROSPECT AVE","STE 328
+4614 PROSPECT AVE, CLEVELAND, OH 44103-4377"
+AugieLeopoldPromotionalProducts-address-0,3,METAIRIE,70001-5224,LA,3214 ROMAN ST,"3214 ROMAN ST, METAIRIE, LA 70001-5224"
+AugieLeopoldPromotionalProducts-address-1,3,METAIRIE,70001-5224,LA,3214 ROMAN ST,"3214 ROMAN ST, METAIRIE, LA 70001-5224"
+ZS-StonyHillDentalCare244656-address-0,3,Bethel,6801,CT,76 Stony Hill Road,"76 Stony Hill Road, BETHEL, CT 6801"
+ZS-StonyHillDentalCare244656-address-1,3,picked up in office,6801,CT,Sarah Imparata,"Sarah Imparata, PICKED UP IN OFFICE, CT 6801"
+ZS-TownSquareDental244653-address-0,3,GILBERT,85296-3462,AZ,"STE 117
+1166 S GILBERT RD","STE 117
+1166 S GILBERT RD, GILBERT, AZ 85296-3462"
+ZS-TownSquareDental244653-address-1,3,Picked up in office,85296,AZ,Peggy Sud,"Peggy Sud, PICKED UP IN OFFICE, AZ 85296"
+SOURCE1-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+SOURCE1-address-1,3,ATLANTA,30342-1787,GA,"STE G90
+5555 PEACHTREE DUNWOODY RD","STE G90
+5555 PEACHTREE DUNWOODY RD, ATLANTA, GA 30342-1787"
+RS-PennyMinges-address-0,3,Jupiter,33477,FL,4300 S U.S 1,"4300 S U.S 1, JUPITER, FL 33477"
+RS-PennyMinges-address-1,3,BROOKLYN,11249-3458,NY,"APT 36E
+2 N 6TH PL","APT 36E
+2 N 6TH PL, BROOKLYN, NY 11249-3458"
+RS-JoanAnderson-address-0,3,KINGS PARK,11754-4911,NY,18 HUNTINGTON AVE,"18 HUNTINGTON AVE, KINGS PARK, NY 11754-4911"
+RS-JoanAnderson-address-1,3,KINGS PARK,11754-4911,NY,18 HUNTINGTON AVE,"18 HUNTINGTON AVE, KINGS PARK, NY 11754-4911"
+CampbellPetCo.-ShampoochiesPensacola-address-0,3,BRUSH PRAIRIE,98606-0122,WA,PO BOX 122,"PO BOX 122, BRUSH PRAIRIE, WA 98606-0122"
+CampbellPetCo.-ShampoochiesPensacola-address-1,3,PENSACOLA,32504-7334,FL,2950 LANGLEY AVE,"2950 LANGLEY AVE, PENSACOLA, FL 32504-7334"
+ZS-NapaFamilyDental-address-0,3,Albaquerque,87111,NM,"10820 Comanche Rd NE, Suite D","10820 Comanche Rd NE, Suite D, ALBAQUERQUE, NM 87111"
+ZS-NapaFamilyDental-address-1,3,Albaquerque,87111,NM,"10820 Comanche Rd NE, Suite D","10820 Comanche Rd NE, Suite D, ALBAQUERQUE, NM 87111"
+NGS-MGBPROMOTIONS-address-0,3,BIRMINGHAM,35242,AL,5432 SUNRISE DRIVE,"5432 SUNRISE DRIVE, BIRMINGHAM, AL 35242"
+NGS-MGBPROMOTIONS-address-1,3,BUFORD,30519-5314,GA,"STE 1341
+3189 BUFORD DR","STE 1341
+3189 BUFORD DR, BUFORD, GA 30519-5314"
+AssistanceLeagueofCoachellaValley-address-0,3,Rancho Mirage,92270,CA,"Attn: Accounts Payable
+PO Box 3056","Attn: Accounts Payable
+PO Box 3056, RANCHO MIRAGE, CA 92270"
+AssistanceLeagueofCoachellaValley-address-1,3,THERMAL,92274-8944,CA,"PSUSD 
+CVUSD
+DSUSD","PSUSD 
+CVUSD
+DSUSD, THERMAL, CA 92274-8944"
+CarlaCouriDMD-address-0,3,Peoria,61614,IL,3008 W Willow Knolls Dr,"3008 W Willow Knolls Dr, PEORIA, IL 61614"
+CarlaCouriDMD-address-1,3,PEORIA,61614-1083,IL,3008 W WILLOW KNOLLS DR,"3008 W WILLOW KNOLLS DR, PEORIA, IL 61614-1083"
+DeltaDentalofCalifornia-TammyHunter-address-0,3,Rancho Cordova,95670,CA,11155 International Drive,"11155 International Drive, RANCHO CORDOVA, CA 95670"
+DeltaDentalofCalifornia-TammyHunter-address-1,3,HAVERHILL,01835-6957,MA,46 ROGERS RD,"46 ROGERS RD, HAVERHILL, MA 01835-6957"
+MattSobczyk-address-0,3,GILBERT,85296-3510,AZ,505 E REDONDO DR,"505 E REDONDO DR, GILBERT, AZ 85296-3510"
+MattSobczyk-address-1,3,GILBERT,85296-3510,AZ,505 E REDONDO DR,"505 E REDONDO DR, GILBERT, AZ 85296-3510"
+RS-ScottTimmer-address-0,3,CONCORD,94521-1551,CA,1854 KARAS CT,"1854 KARAS CT, CONCORD, CA 94521-1551"
+RS-ScottTimmer-address-1,3,CONCORD,94521-1551,CA,1854 KARAS CT,"1854 KARAS CT, CONCORD, CA 94521-1551"
+SteGenevieveCoHealthDept-address-0,3,STE GENEVIEVE,63670-0049,MO,PO BOX 49,"PO BOX 49, STE GENEVIEVE, MO 63670-0049"
+SteGenevieveCoHealthDept-address-1,3,STE GENEVIEVE,63670-0049,MO,PO BOX 49,"PO BOX 49, STE GENEVIEVE, MO 63670-0049"
+RS-FatimaCaldeira-address-0,3,TORRANCE,90503-4327,CA,21008 LADEENE AVE,"21008 LADEENE AVE, TORRANCE, CA 90503-4327"
+RS-FatimaCaldeira-address-1,3,TORRANCE,90503-4327,CA,21008 LADEENE AVE,"21008 LADEENE AVE, TORRANCE, CA 90503-4327"
+WorcesterDental-address-0,3,Worcester,1609,MA,"Attn: Karen
+88 Pleasant St.","Attn: Karen
+88 Pleasant St., WORCESTER, MA 1609"
+WorcesterDental-address-1,3,Worcester,1609,MA,"Attn: Karen
+88 Pleasant St.","Attn: Karen
+88 Pleasant St., WORCESTER, MA 1609"
+DeltaDentalofNewJersey-CT-address-0,3,PARSIPPANY,07054-4506,NJ,1639 ROUTE 10,"1639 ROUTE 10, PARSIPPANY, NJ 07054-4506"
+DeltaDentalofNewJersey-CT-address-1,3,PARSIPPANY,07054-4506,NJ,1639 ROUTE 10,"1639 ROUTE 10, PARSIPPANY, NJ 07054-4506"
+ZS-TheDentalMarket-address-0,3,RALEIGH,27609-7371,NC,3713 BENSON DR,"3713 BENSON DR, RALEIGH, NC 27609-7371"
+ZS-TheDentalMarket-address-1,3,RALEIGH,27609-7371,NC,3713 BENSON DR,"3713 BENSON DR, RALEIGH, NC 27609-7371"
+RS-ChristineSwenson-address-0,3,ARCHER,32618-0239,FL,PO BOX 239,"PO BOX 239, ARCHER, FL 32618-0239"
+RS-ChristineSwenson-address-1,3,ARCHER,32618-0239,FL,PO BOX 239,"PO BOX 239, ARCHER, FL 32618-0239"
+ALTAMED-address-0,3,COMMERCE,90040-1502,CA,2040 CAMFIELD AVE,"2040 CAMFIELD AVE, COMMERCE, CA 90040-1502"
+ALTAMED-address-1,3,COMMERCE,90040-1501,CA,2035 CAMFIELD AVE,"2035 CAMFIELD AVE, COMMERCE, CA 90040-1501"
+CampbellPetCo.-CeresVet.clinic-address-0,3,BRUSH PRAIRIE,98606-0122,WA,PO BOX 122,"PO BOX 122, BRUSH PRAIRIE, WA 98606-0122"
+CampbellPetCo.-CeresVet.clinic-address-1,3,CERES,95307-2902,CA,3018 E WHITMORE AVE,"3018 E WHITMORE AVE, CERES, CA 95307-2902"
+RS-WallaceLott-address-0,3,RCH PALOS VRD,90275-5117,CA,83 HEADLAND DR,"83 HEADLAND DR, RCH PALOS VRD, CA 90275-5117"
+RS-WallaceLott-address-1,3,RCH PALOS VRD,90275-5117,CA,83 HEADLAND DR,"83 HEADLAND DR, RCH PALOS VRD, CA 90275-5117"
+AssistanceLeagueofSantaBarbara-address-0,3,Santa Barbara,93111,CA,"Cynthia Kawasaki
+1137 N Patterson Ave.","Cynthia Kawasaki
+1137 N Patterson Ave., SANTA BARBARA, CA 93111"
+AssistanceLeagueofSantaBarbara-address-1,3,SANTA BARBARA,93105-3918,CA,11 W JUNIPERO ST,"11 W JUNIPERO ST, SANTA BARBARA, CA 93105-3918"
+ZS-VerandaDentistry:PleasantHill-address-0,3,PLEASANT HILL,50327-7091,IA,"STE K
+1225 COPPER CREEK DR","STE K
+1225 COPPER CREEK DR, PLEASANT HILL, IA 50327-7091"
+ZS-VerandaDentistry:PleasantHill-address-1,3,Picked up in office,50327-7091,IA,Pamela Vanderkamp,"Pamela Vanderkamp, PICKED UP IN OFFICE, IA 50327-7091"
+Aetna-NicoleMichaelson-address-0,3,FORT MYERS,33901-3054,FL,"FL 2
+1825 HENDRY ST","FL 2
+1825 HENDRY ST, FORT MYERS, FL 33901-3054"
+Aetna-NicoleMichaelson-address-1,3,FORT MYERS,33901-3054,FL,"TBD 
+Mailing to 8,765 contacts","TBD 
+Mailing to 8,765 contacts, FORT MYERS, FL 33901-3054"
+ZS-SutorPeriodontics-address-0,3,Bloomington,47401,IN,379 S. Park Ridge Rd.,"379 S. Park Ridge Rd., BLOOMINGTON, IN 47401"
+ZS-SutorPeriodontics-address-1,3,Picked up in office,47401,IN,Jared Trisler,"Jared Trisler, PICKED UP IN OFFICE, IN 47401"
+NGS-TeamConceptPrinting-address-0,3,CAROL STREAM,60188-9426,IL,540 TOWER BLVD,"540 TOWER BLVD, CAROL STREAM, IL 60188-9426"
+NGS-TeamConceptPrinting-address-1,3,Des Plaines,60018,IL,"1700 W. Higgins Rd
+Ste 320","1700 W. Higgins Rd
+Ste 320, DES PLAINES, IL 60018"
+StephenAnanian-address-0,3,Portsmouth,03801-5455,NH,"Dr. Stephen Ananian
+278 Lafayette Rd.","Dr. Stephen Ananian
+278 Lafayette Rd., PORTSMOUTH, NH 03801-5455"
+StephenAnanian-address-1,3,Portsmouth,03801-5455,NH,"Dr. Stephen Ananian
+278 Lafayette Rd.","Dr. Stephen Ananian
+278 Lafayette Rd., PORTSMOUTH, NH 03801-5455"
+CampbellPetCo.-NorthpawsVetCenter-address-0,3,BRUSH PRAIRIE,98606-0122,WA,PO BOX 122,"PO BOX 122, BRUSH PRAIRIE, WA 98606-0122"
+CampbellPetCo.-NorthpawsVetCenter-address-1,3,GREENVILLE,02828-2127,RI,564 PUTNAM PIKE,"564 PUTNAM PIKE, GREENVILLE, RI 02828-2127"
+RS-MeriZidel-address-0,3,SCOTTSDALE,85266-7638,AZ,7502 E BAJADA RD,"7502 E BAJADA RD, SCOTTSDALE, AZ 85266-7638"
+RS-MeriZidel-address-1,3,SCOTTSDALE,85266-7638,AZ,7502 E BAJADA RD,"7502 E BAJADA RD, SCOTTSDALE, AZ 85266-7638"
+ZS-BrookstoneDentalCare-address-0,3,Phoenix,85032,AZ,"16421 N. Tatum Blvd., 
+Suite 202","16421 N. Tatum Blvd., 
+Suite 202, PHOENIX, AZ 85032"
+ZS-BrookstoneDentalCare-address-1,3,Picked up in office,85032,AZ,Adriana Zuniga,"Adriana Zuniga, PICKED UP IN OFFICE, AZ 85032"
+RS-NancyHouston-address-0,3,SCOTTSDALE,85255-4534,AZ,"UNIT 266
+7501 E THOMPSON PEAK PKWY","UNIT 266
+7501 E THOMPSON PEAK PKWY, SCOTTSDALE, AZ 85255-4534"
+RS-NancyHouston-address-1,3,SCOTTSDALE,85255-4534,AZ,"UNIT 266
+7501 E THOMPSON PEAK PKWY","UNIT 266
+7501 E THOMPSON PEAK PKWY, SCOTTSDALE, AZ 85255-4534"
+Source1-JohnCastor-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-JohnCastor-address-1,3,W LAFAYETTE,47906-1569,IN,168 SAGAMORE PKWY W,"168 SAGAMORE PKWY W, W LAFAYETTE, IN 47906-1569"
+BrianP.van-EmmerickDDS-address-0,3,SEDGWICK,04676-3006,ME,410 REACH RD,"410 REACH RD, SEDGWICK, ME 04676-3006"
+BrianP.van-EmmerickDDS-address-1,3,STONINGTON,04681-3217,ME,356 AIRPORT RD,"356 AIRPORT RD, STONINGTON, ME 04681-3217"
+ZS-OrthoGraceDental-address-0,3,Northridge,91324,CA,"8949 Reseda Blvd, Suite 116","8949 Reseda Blvd, Suite 116, NORTHRIDGE, CA 91324"
+ZS-OrthoGraceDental-address-1,3,Picked up in office,91324,CA,Elizabeth Mondragon,"Elizabeth Mondragon, PICKED UP IN OFFICE, CA 91324"
+Source1-DemetraJones-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-DemetraJones-address-1,3,DALLAS,75215-4349,TX,4432 MALCOLM X BLVD,"4432 MALCOLM X BLVD, DALLAS, TX 75215-4349"
+Source1-MarkWaninger-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-MarkWaninger-address-1,3,BEAUFORT,29906-9107,SC,1 MARKET,"1 MARKET, BEAUFORT, SC 29906-9107"
+Source1-AllisonWhite-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-AllisonWhite-address-1,3,ASHEVILLE,28805-2059,NC,"STE 140
+1011 TUNNEL RD","STE 140
+1011 TUNNEL RD, ASHEVILLE, NC 28805-2059"
+CampbellPetCo.-BigCreek-address-0,3,Brush Prairie,98682,WA,PO Box  122,"PO Box  122, BRUSH PRAIRIE, WA 98682"
+CampbellPetCo.-BigCreek-address-1,3,Plainesville,44077-9762,OH,11743 GIRDLED RD,"11743 GIRDLED RD, PLAINESVILLE, OH 44077-9762"
+DylanTomasi-address-0,3,,,,.,"., ,  "
+DylanTomasi-address-1,3,Gorham,4038,ME,37 COLLEGE AVE,"37 COLLEGE AVE, GORHAM, ME 4038"
+CampbellPetCo.-ManatiVetClinic-address-0,3,BRUSH PRAIRIE,98606-0122,WA,PO BOX 122,"PO BOX 122, BRUSH PRAIRIE, WA 98606-0122"
+CampbellPetCo.-ManatiVetClinic-address-1,3,MANATI,674,,59 BO CANTERA,"59 BO CANTERA, MANATI,  674"
+Source1-JamieHall-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-JamieHall-address-1,3,ALTOONA,16601-1705,PA,"STE A
+2727 BEALE AVE","STE A
+2727 BEALE AVE, ALTOONA, PA 16601-1705"
+BaltimoreCityPublicSchools-address-0,3,BALTIMORE,21202-4888,MD,"RM 403
+200 E NORTH AVE","RM 403
+200 E NORTH AVE, BALTIMORE, MD 21202-4888"
+BaltimoreCityPublicSchools-address-1,3,BALTIMORE,21223-1867,MD,100 N CALHOUN ST,"100 N CALHOUN ST, BALTIMORE, MD 21223-1867"
+ModaHealth-address-0,3,PORTLAND,97204-3161,OR,"FL 10
+601 SW 2ND AVE","FL 10
+601 SW 2ND AVE, PORTLAND, OR 97204-3161"
+ModaHealth-address-1,3,ANCHORAGE,99501-1949,AK,"STE 270
+510 L ST","STE 270
+510 L ST, ANCHORAGE, AK 99501-1949"
+CampbellPetCo.-AllCreaturesVetCen.-address-0,3,BRUSH PRAIRIE,98606-0122,WA,PO BOX 122,"PO BOX 122, BRUSH PRAIRIE, WA 98606-0122"
+CampbellPetCo.-AllCreaturesVetCen.-address-1,3,CARROLLTON,75010-4403,TX,2525 E HEBRON PKWY,"2525 E HEBRON PKWY, CARROLLTON, TX 75010-4403"
+Source1-ClassicSmilesSusanneBaaqee-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-ClassicSmilesSusanneBaaqee-address-1,3,OCOEE,34761-4753,FL,2677 MAGUIRE RD,"2677 MAGUIRE RD, OCOEE, FL 34761-4753"
+Source1-SpringwoodsVillage-address-0,3,phoenix,85018,AZ,3219 E Camelback Rd #445,"3219 E Camelback Rd #445, PHOENIX, AZ 85018"
+Source1-SpringwoodsVillage-address-1,3,SPRING,77389-1812,TX,"STE 640
+2255 E MOSSY OAKS RD","STE 640
+2255 E MOSSY OAKS RD, SPRING, TX 77389-1812"
+Source1-RobertStasny-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-RobertStasny-address-1,3,FLOWER MOUND,75028-6207,TX,"STE 752
+6101 LONG PRAIRIE RD","STE 752
+6101 LONG PRAIRIE RD, FLOWER MOUND, TX 75028-6207"
+Source1-DavidCarithers-address-0,3,PHOENIX,85018-,AZ,"# 445
+3219E E CAMELBACK RD","# 445
+3219E E CAMELBACK RD, PHOENIX, AZ 85018-"
+Source1-DavidCarithers-address-1,3,LOGANVILLE,30052-7368,GA,238 MAIN ST,"238 MAIN ST, LOGANVILLE, GA 30052-7368"
+Source1-AustinLee-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-AustinLee-address-1,3,SAN ANTONIO,78232-1403,TX,"# 130
+17201 SAN PEDRO AVE","# 130
+17201 SAN PEDRO AVE, SAN ANTONIO, TX 78232-1403"
+Source1-TheresaWhite-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-TheresaWhite-address-1,3,OKLAHOMA CITY,73139-9406,OK,"STE C
+8101 S WALKER AVE","STE C
+8101 S WALKER AVE, OKLAHOMA CITY, OK 73139-9406"
+DeltaDental-TNSmile180-address-0,3,NASHVILLE,37228-1604,TN,240 VENTURE CIR,"240 VENTURE CIR, NASHVILLE, TN 37228-1604"
+DeltaDental-TNSmile180-address-1,3,CORDOVA,38016-4910,TN,2000 APPLING RD,"2000 APPLING RD, CORDOVA, TN 38016-4910"
+Source1-CLau-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-CLau-address-1,3,DEFOREST,53532-1480,WI,821 S MAIN ST,"821 S MAIN ST, DEFOREST, WI 53532-1480"
+TraverseDentalAssociates-address-0,3,TRAVERSE CITY,49686-3423,MI,555 S GARFIELD AVE,"555 S GARFIELD AVE, TRAVERSE CITY, MI 49686-3423"
+TraverseDentalAssociates-address-1,3,TRAVERSE CITY,49686-3423,MI,555 S GARFIELD AVE,"555 S GARFIELD AVE, TRAVERSE CITY, MI 49686-3423"
+AssistanceLeagueofCincinnati-address-0,3,CINCINNATI,45237-5007,OH,1057 META DR,"1057 META DR, CINCINNATI, OH 45237-5007"
+AssistanceLeagueofCincinnati-address-1,3,CINCINNATI,45237-5007,OH,1057 META DR,"1057 META DR, CINCINNATI, OH 45237-5007"
+RS-KimberlyBravo-address-0,3,MESA,85204-6243,AZ,2514 E HAMPTON AVE,"2514 E HAMPTON AVE, MESA, AZ 85204-6243"
+RS-KimberlyBravo-address-1,3,chandler,85225,AZ,picking up in ofice,"picking up in ofice, CHANDLER, AZ 85225"
+NGS-CreativeExpressions-address-0,3,FRIENDSWOOD,77546-4806,TX,1105 W WINDING WAY DR,"1105 W WINDING WAY DR, FRIENDSWOOD, TX 77546-4806"
+NGS-CreativeExpressions-address-1,3,FRIENDSWOOD,77546-2254,TX,505 S FRIENDSWOOD DR,"505 S FRIENDSWOOD DR, FRIENDSWOOD, TX 77546-2254"
+DeltaDentalofPennsylvania-AmyA-address-0,3,MECHANICSBURG,17055-6999,PA,1 DELTA DR,"1 DELTA DR, MECHANICSBURG, PA 17055-6999"
+DeltaDentalofPennsylvania-AmyA-address-1,3,MECHANICSBURG,17055-6921,PA,5073 RITTER RD,"5073 RITTER RD, MECHANICSBURG, PA 17055-6921"
+Source1-DanielKing-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-DanielKing-address-1,3,ALPHARETTA,30022-5526,GA,3455 OLD ALABAMA RD,"3455 OLD ALABAMA RD, ALPHARETTA, GA 30022-5526"
+CSGroup-Benefits-address-0,3,Louisville,40243,KY,"Attn:  Lisa Gardner
+12910  Shelbyville Rd.  Ste #300","Attn:  Lisa Gardner
+12910  Shelbyville Rd.  Ste #300, LOUISVILLE, KY 40243"
+CSGroup-Benefits-address-1,3,LOUISVILLE,40243-2404,KY,"STE 300
+12910 SHELBYVILLE RD","STE 300
+12910 SHELBYVILLE RD, LOUISVILLE, KY 40243-2404"
+Source1-ReneRoberts-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-ReneRoberts-address-1,3,COLUMBUS,31909-2542,GA,"STE A
+7790 VETERANS PKWY","STE A
+7790 VETERANS PKWY, COLUMBUS, GA 31909-2542"
+SOURCE1-TRACYLACANNE-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+SOURCE1-TRACYLACANNE-address-1,3,MARINETTE,54143-1814,WI,830 PIERCE AVE,"830 PIERCE AVE, MARINETTE, WI 54143-1814"
+NGS-FreedomGraphics-address-0,3,SAN MARCOS,92078-3820,CA,"STE 103
+1145 LINDA VISTA DR","STE 103
+1145 LINDA VISTA DR, SAN MARCOS, CA 92078-3820"
+NGS-FreedomGraphics-address-1,3,ESCONDIDO,92027-2521,CA,"STE 110
+1711 E VALLEY PKWY","STE 110
+1711 E VALLEY PKWY, ESCONDIDO, CA 92027-2521"
+Source1-HeatherSylvester-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-HeatherSylvester-address-1,3,WOODSTOCK,30188-4854,GA,"STE 110
+113 TOWNE LAKE PKWY","STE 110
+113 TOWNE LAKE PKWY, WOODSTOCK, GA 30188-4854"
+Source1-BrandonDevito-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-BrandonDevito-address-1,3,SUPPLY,28462-4094,NC,"STE 201
+20 MEDICAL CAMPUS DR NW","STE 201
+20 MEDICAL CAMPUS DR NW, SUPPLY, NC 28462-4094"
+Source1-GilbertLam-address-0,3,,,,SourceOne,"SourceOne, ,  "
+Source1-GilbertLam-address-1,3,VISALIA,93291-2011,CA,"STE A
+2136 N DINUBA BLVD","STE A
+2136 N DINUBA BLVD, VISALIA, CA 93291-2011"
+Source1-LisaTrevino-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-LisaTrevino-address-1,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+CampbellPetCo.-ThHannahPetSociety-address-0,3,PORTLAND,97216-2809,OR,"STE A-103
+10526 SE WASHINGTON ST","STE A-103
+10526 SE WASHINGTON ST, PORTLAND, OR 97216-2809"
+CampbellPetCo.-ThHannahPetSociety-address-1,3,PORTLAND,97216-2809,OR,"STE A-103
+10526 SE WASHINGTON ST","STE A-103
+10526 SE WASHINGTON ST, PORTLAND, OR 97216-2809"
+BrooklynMintDental-address-0,3,11201,,,"257 Gold St
+Apt PHN
+Brooklyn NY","257 Gold St
+Apt PHN
+Brooklyn NY, 11201,  "
+BrooklynMintDental-address-1,3,11201,,,"257 Gold St
+Apt PHN
+Brooklyn NY","257 Gold St
+Apt PHN
+Brooklyn NY, 11201,  "
+Overture-address-0,3,Vernon Hills,60061,IL,"Overture Premiums & Promotions
+595 N. Lakeview Parkway Suite A","Overture Premiums & Promotions
+595 N. Lakeview Parkway Suite A, VERNON HILLS, IL 60061"
+Overture-address-1,3,,,,"Split shipment to:
+KayLynn Smith 73112
+Tammy McMurrian 74119","Split shipment to:
+KayLynn Smith 73112
+Tammy McMurrian 74119, ,  "
+CampbellPetCo.-AnimalHosp.ofSanANT-address-0,3,SAN ANTONIO,78230-5309,TX,2210 NW LOOP 410,"2210 NW LOOP 410, SAN ANTONIO, TX 78230-5309"
+CampbellPetCo.-AnimalHosp.ofSanANT-address-1,3,SAN ANTONIO,78230-5309,TX,2210 NW LOOP 410,"2210 NW LOOP 410, SAN ANTONIO, TX 78230-5309"
+CentralCityDentalOffice-address-0,3,San Bernardino,92401,CA,189 N. E. St.,"189 N. E. St., SAN BERNARDINO, CA 92401"
+CentralCityDentalOffice-address-1,3,San Bernardino,92401,CA,189 N. E. St.,"189 N. E. St., SAN BERNARDINO, CA 92401"
+PatricaBernard-address-0,3,GLENDALE,53209-3327,WI,6705 N BRAEBURN LN,"6705 N BRAEBURN LN, GLENDALE, WI 53209-3327"
+PatricaBernard-address-1,3,GLENDALE,53209-3327,WI,6705 N BRAEBURN LN,"6705 N BRAEBURN LN, GLENDALE, WI 53209-3327"
+ZS-VerandaDentistry:Johnston-address-0,3,Johnston,50131,IA,5721 Merle Hay Rd # 12,"5721 Merle Hay Rd # 12, JOHNSTON, IA 50131"
+ZS-VerandaDentistry:Johnston-address-1,3,Johnston,50131,IA,5721 Merle Hay Rd # 12,"5721 Merle Hay Rd # 12, JOHNSTON, IA 50131"
+joanhellen-address-0,3,SANTA FE,87508-6655,NM,45 CIELO DE ORO,"45 CIELO DE ORO, SANTA FE, NM 87508-6655"
+joanhellen-address-1,3,SANTA FE,87508-6655,NM,45 CIELO DE ORO,"45 CIELO DE ORO, SANTA FE, NM 87508-6655"
+DeltaDentalofPennsylvania-address-0,3,Mechanicsburg,17055,PA,"Delta Dental of Pennsylvania
+One Delta Drive","Delta Dental of Pennsylvania
+One Delta Drive, MECHANICSBURG, PA 17055"
+DeltaDentalofPennsylvania-address-1,3,Santa Ana,90040,CA,"Senior Account Manager
+1801 S. Standard Ave
+Santa Ana, CA","Senior Account Manager
+1801 S. Standard Ave
+Santa Ana, CA, SANTA ANA, CA 90040"
+DeltaDentalofTN-address-0,3,San Francisco,94105,CA,"Delta Dental of California
+560 Mission Street, Suite 1300","Delta Dental of California
+560 Mission Street, Suite 1300, SAN FRANCISCO, CA 94105"
+DeltaDentalofTN-address-1,3,Santa Ana,92707,CA,"Senior Account Manager
+1801 S. Standard Ave","Senior Account Manager
+1801 S. Standard Ave, SANTA ANA, CA 92707"
+HealthPartners-address-0,3,Bloomington,55420,MN,"Attn:  Michelle Scearcy
+8170 33rd Avenue South","Attn:  Michelle Scearcy
+8170 33rd Avenue South, BLOOMINGTON, MN 55420"
+HealthPartners-address-1,3,MINNEAPOLIS,55414-2812,MN,668 KASOTA AVE SE,"668 KASOTA AVE SE, MINNEAPOLIS, MN 55414-2812"
+MidwestDentalEquip&Sup-address-0,3,WICHITA FALLS,76308-0802,TX,PO BOX 4802,"PO BOX 4802, WICHITA FALLS, TX 76308-0802"
+MidwestDentalEquip&Sup-address-1,3,WICHITA FALLS,76301-8051,TX,2700 COMMERCE ST,"2700 COMMERCE ST, WICHITA FALLS, TX 76301-8051"
+source1-MelissaScaggs-address-0,3,CARROLLTON,75006-1696,TX,"STE 102
+2440 N JOSEY LN","STE 102
+2440 N JOSEY LN, CARROLLTON, TX 75006-1696"
+source1-MelissaScaggs-address-1,3,CARROLLTON,75006-1696,TX,"STE 102
+2440 N JOSEY LN","STE 102
+2440 N JOSEY LN, CARROLLTON, TX 75006-1696"
+Source1-JaimeFairchild-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-JaimeFairchild-address-1,3,AUSTIN,78759-5227,TX,"STE 270
+11149 RESEARCH BLVD","STE 270
+11149 RESEARCH BLVD, AUSTIN, TX 78759-5227"
+ZS-HeatherAdamsDentistry-address-0,3,Rogers,72758,AR,"4805 Highland Knolls Rd, Suite 300","4805 Highland Knolls Rd, Suite 300, ROGERS, AR 72758"
+ZS-HeatherAdamsDentistry-address-1,3,Picked up in office,72758,AR,Susanna Miner,"Susanna Miner, PICKED UP IN OFFICE, AR 72758"
+TDA-MelissaUriegas-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+TDA-MelissaUriegas-address-1,3,MCALLEN,78504-4141,TX,4113 N 22ND ST,"4113 N 22ND ST, MCALLEN, TX 78504-4141"
+Source1-LaTonyaGillespie-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-LaTonyaGillespie-address-1,3,HAMPTON,30228-3514,GA,"BLDG 100-D
+1883 MCDONOUGH RD","BLDG 100-D
+1883 MCDONOUGH RD, HAMPTON, GA 30228-3514"
+Source1-JohnPatrzykont-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-JohnPatrzykont-address-1,3,COFFEYVILLE,67337-1205,KS,106 N CLINE RD,"106 N CLINE RD, COFFEYVILLE, KS 67337-1205"
+Source1-EdwardLancaster-address-0,3,PHOENIX,85018-2307,AZ,"# 445
+3219 E CAMELBACK RD","# 445
+3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-EdwardLancaster-address-1,3,LAKE MARY,32746-1698,FL,"STE 1441
+1349 S INTERNATIONAL PKWY","STE 1441
+1349 S INTERNATIONAL PKWY, LAKE MARY, FL 32746-1698"
+Source1-SaraTwardy-address-0,3,SMYRNA,30080-2063,GA,1060 WINDY HILL RD SE,"1060 WINDY HILL RD SE, SMYRNA, GA 30080-2063"
+Source1-SaraTwardy-address-1,3,SMYRNA,30080-2065,GA,"STE 220
+1060 WINDY HILL RD SE","STE 220
+1060 WINDY HILL RD SE, SMYRNA, GA 30080-2065"
+TestMillyJackson-address-0,3,Chandler,85225,AZ,3280 N Colorado st,"3280 N Colorado st, CHANDLER, AZ 85225"
+TestMillyJackson-address-1,3,Chandler,85225,AZ,3280 N Colorado st,"3280 N Colorado st, CHANDLER, AZ 85225"
+CampbellPetCo.-SpringBranchVet-address-0,3,BRUSH PRAIRIE,98606-0122,WA,PO BOX 122,"PO BOX 122, BRUSH PRAIRIE, WA 98606-0122"
+CampbellPetCo.-SpringBranchVet-address-1,3,SPRING BRANCH,78070-6852,TX,5090 US HIGHWAY 281 N,"5090 US HIGHWAY 281 N, SPRING BRANCH, TX 78070-6852"
+DeltaDental-TN-Jana-address-0,3,Nashville,37228,TN,"Delta Dental of Tennessee
+Attn:  Accounts Payable
+240 Venture Circle","Delta Dental of Tennessee
+Attn:  Accounts Payable
+240 Venture Circle, NASHVILLE, TN 37228"
+DeltaDental-TN-Jana-address-1,3,Dodson,59524,MT,300 Youth Ranch Road,"300 Youth Ranch Road, DODSON, MT 59524"
+Source1-RoumianaStoycheva-address-0,3,,,,None,"None, ,  "
+Source1-RoumianaStoycheva-address-1,3,Milwaukee,53204,WI,"106 W. Seeboth St.
+Ste 202","106 W. Seeboth St.
+Ste 202, MILWAUKEE, WI 53204"
+St.BenedictPreparatorySchool-address-0,3,CHICAGO,60618-3805,IL,2215 W IRVING PARK RD,"2215 W IRVING PARK RD, CHICAGO, IL 60618-3805"
+St.BenedictPreparatorySchool-address-1,3,CHICAGO,60618-3801,IL,3901 N BELL AVE,"3901 N BELL AVE, CHICAGO, IL 60618-3801"
+Source1-SylviaJeffries-address-0,3,PHOENIX,85018-2307,AZ,3219 E CAMELBACK RD,"3219 E CAMELBACK RD, PHOENIX, AZ 85018-2307"
+Source1-SylviaJeffries-address-1,3,BOULDER CITY,89005-1255,NV,103 CASA MONTANA WAY,"103 CASA MONTANA WAY, BOULDER CITY, NV 89005-1255"
+ZS-SoFloImplantology&CosmeticDentist-address-0,3,Miami,33186,FL,135550 SW 88th St. Unit#112,"135550 SW 88th St. Unit#112, MIAMI, FL 33186"
+ZS-SoFloImplantology&CosmeticDentist-address-1,3,Picked up in Office,33186,FL,Maria Puthon,"Maria Puthon, PICKED UP IN OFFICE, FL 33186"
+WendyAlpaughDMD(SEEBRIANP.van-Emm-address-0,3,STONINGTON,04681-3217,ME,356 AIRPORT RD,"356 AIRPORT RD, STONINGTON, ME 04681-3217"
+WendyAlpaughDMD(SEEBRIANP.van-Emm-address-1,3,STONINGTON,04681-3217,ME,356 AIRPORT RD,"356 AIRPORT RD, STONINGTON, ME 04681-3217"
+CampbellPetCo.-PawtownVeterinaryCar-address-0,3,BEND,97701-7084,OR,"STE 100
+63130 LANCASTER ST","STE 100
+63130 LANCASTER ST, BEND, OR 97701-7084"
+CampbellPetCo.-PawtownVeterinaryCar-address-1,3,BEND,97701-7084,OR,"STE 100
+63130 LANCASTER ST","STE 100
+63130 LANCASTER ST, BEND, OR 97701-7084"
+CynthiaWatsonGreen-address-0,3,MILTON,02186-1117,MA,40 CONCORD AVE,"40 CONCORD AVE, MILTON, MA 02186-1117"
+CynthiaWatsonGreen-address-1,3,MILTON,02186-1117,MA,40 CONCORD AVE,"40 CONCORD AVE, MILTON, MA 02186-1117"
+RS-DorisStritt-address-0,3,INDIANOLA,69034-0114,NE,PO BOX 114,"PO BOX 114, INDIANOLA, NE 69034-0114"
+RS-DorisStritt-address-1,3,INDIANOLA,69034-0114,NE,"PO BOX 114
+PICKED UP IN OFFICe **************************","PO BOX 114
+PICKED UP IN OFFICe **************************, INDIANOLA, NE 69034-0114"
+RS-JeniferCole*-address-0,3,LOS ANGELES,90067-3505,CA,2222 CENTURY HL,"2222 CENTURY HL, LOS ANGELES, CA 90067-3505"
+RS-JeniferCole*-address-1,3,LOS ANGELES,90067-3505,CA,2222 CENTURY HL,"2222 CENTURY HL, LOS ANGELES, CA 90067-3505"
+RS-DebbieGriggs-address-0,3,CHICOPEE,01020-2250,MA,77 DEBRA DR,"77 DEBRA DR, CHICOPEE, MA 01020-2250"
+RS-DebbieGriggs-address-1,3,CHICOPEE,01020-2250,MA,77 DEBRA DR,"77 DEBRA DR, CHICOPEE, MA 01020-2250"
+RS-MarvinHohman-address-0,3,WOODLAND,95695-2548,CA,281 RIVERSIDE DR,"281 RIVERSIDE DR, WOODLAND, CA 95695-2548"
+RS-MarvinHohman-address-1,3,WOODLAND,95695-2548,CA,281 RIVERSIDE DR,"281 RIVERSIDE DR, WOODLAND, CA 95695-2548"
+NGS-AllisonConway-address-0,3,SCOTTSDALE,85266-8222,AZ,33212 N 61ST PL,"33212 N 61ST PL, SCOTTSDALE, AZ 85266-8222"
+NGS-AllisonConway-address-1,3,RENO,89519-0612,NV,1010 CAUGHLIN XING,"1010 CAUGHLIN XING, RENO, NV 89519-0612"
+RWJBarnabasUSEClaraMaassaccount-address-0,3,Belleville,7109,NJ,1 Clara Maass Dr,"1 Clara Maass Dr, BELLEVILLE, NJ 7109"
+RWJBarnabasUSEClaraMaassaccount-address-1,3,BELLEVILLE,07109-3550,NJ,1 CLARA MAASS DR,"1 CLARA MAASS DR, BELLEVILLE, NJ 07109-3550"
+NewarkB-IsraelDentalDept-address-0,3,West Long Branch,7764,NJ,"RWJ Barnabas Health
+Attn: Accts Payable
+PO   Box  337","RWJ Barnabas Health
+Attn: Accts Payable
+PO   Box  337, WEST LONG BRANCH, NJ 7764"
+NewarkB-IsraelDentalDept-address-1,3,Long Branch,7740,NJ,300 Second Ave,"300 Second Ave, LONG BRANCH, NJ 7740"
+Source1-AnandShah-address-0,3,TEMPE,85282-5692,AZ,"STE 330
+1400 E SOUTHERN AVE","STE 330
+1400 E SOUTHERN AVE, TEMPE, AZ 85282-5692"
+Source1-AnandShah-address-1,3,W MELBOURNE,32904-3701,FL,2575 W NEW HAVEN AVE,"2575 W NEW HAVEN AVE, W MELBOURNE, FL 32904-3701"
+source1-RashmiPawar-address-0,3,TEMPE,85282-5692,AZ,"STE 330
+1400 E SOUTHERN AVE","STE 330
+1400 E SOUTHERN AVE, TEMPE, AZ 85282-5692"
+source1-RashmiPawar-address-1,3,LEWISVILLE,75067-4141,TX,"STE 160
+2601 S STEMMONS FWY","STE 160
+2601 S STEMMONS FWY, LEWISVILLE, TX 75067-4141"
+Source1-LauraRammerDDSLLC-address-0,3,Tempe,85282,AZ,"1400 E Southern Ave
+Suite 330","1400 E Southern Ave
+Suite 330, TEMPE, AZ 85282"
+Source1-LauraRammerDDSLLC-address-1,3,SHEBOYGAN,53081-3457,WI,604 MICHIGAN AVE,"604 MICHIGAN AVE, SHEBOYGAN, WI 53081-3457"
+RS-ThomasStubblefield-address-0,3,PALM SPRINGS,92264-1317,CA,3817 E SUNNY DUNES RD,"3817 E SUNNY DUNES RD, PALM SPRINGS, CA 92264-1317"
+RS-ThomasStubblefield-address-1,3,PALM SPRINGS,92264-1317,CA,3817 E SUNNY DUNES RD,"3817 E SUNNY DUNES RD, PALM SPRINGS, CA 92264-1317"
+RS-VictoriaValledor-address-0,3,La Pine,97739,OR,53220 Andrews Road,"53220 Andrews Road, LA PINE, OR 97739"
+RS-VictoriaValledor-address-1,3,La Pine,97739,OR,53220 Andrews Road,"53220 Andrews Road, LA PINE, OR 97739"
+ZS-UniqueDentalCare-address-0,3,Mesa,85208,AZ,"Unique Dental Care
+1025 S. Power Rd., Suit 106","Unique Dental Care
+1025 S. Power Rd., Suit 106, MESA, AZ 85208"
+ZS-UniqueDentalCare-address-1,3,Pick Up,,,"Picked Up From Office By:
+Juanita Damm","Picked Up From Office By:
+Juanita Damm, PICK UP,  "
+Source1-CharlottteWilson-address-0,3,Tempe,85282,AZ,"1400 E Southern Ave.
+Suite 330","1400 E Southern Ave.
+Suite 330, TEMPE, AZ 85282"
+Source1-CharlottteWilson-address-1,3,Atlanta,30342,GA,5555 Peachtree Dunwoody Rd Ste G-90,"5555 Peachtree Dunwoody Rd Ste G-90, ATLANTA, GA 30342"
+DONATION-address-0,3,Chandler,85225,AZ,3280 N Colorado St,"3280 N Colorado St, CHANDLER, AZ 85225"
+DONATION-address-1,3,Waukegan,60085,IL,2841 Hillside Ave,"2841 Hillside Ave, WAUKEGAN, IL 60085"
+Source1-StephanieKendrick-address-0,3,Stilwater,74074,OK,1319 W. 12th Ave.,"1319 W. 12th Ave., STILWATER, OK 74074"
+Source1-StephanieKendrick-address-1,3,Stilwater,74074,OK,1319 W. 12th Ave.,"1319 W. 12th Ave., STILWATER, OK 74074"
+ZS-NuanceDentalSpecialists-address-0,3,Portland,4101,,"Nuance Dental Specialists
+193 Middle St F3","Nuance Dental Specialists
+193 Middle St F3, PORTLAND,  4101"
+ZS-NuanceDentalSpecialists-address-1,3,Portland,4101,ME,"Nuance Dental Specialists
+193 Middle St F3","Nuance Dental Specialists
+193 Middle St F3, PORTLAND, ME 4101"
+ZS-DelafieldFamilyDental-address-0,3,Delafield,53018,WI,11 Crossroads Ct.,"11 Crossroads Ct., DELAFIELD, WI 53018"
+ZS-DelafieldFamilyDental-address-1,3,Delafield,53018,WI,11 Crossroads Ct.,"11 Crossroads Ct., DELAFIELD, WI 53018"
+KamiTestCHANGE-address-0,3,Mesa,85206,AZ,Colorado St,"Colorado St, MESA, AZ 85206"
+KamiTestCHANGE-address-1,3,Mesa,85206,AZ,Colorado St,"Colorado St, MESA, AZ 85206"
+ShinImagingCenter-address-0,3,Fullerton,92835,CA,1955 Sunnycrest Dr #110,"1955 Sunnycrest Dr #110, FULLERTON, CA 92835"
+ShinImagingCenter-address-1,3,Fullerton,92835,CA,1955 Sunnycrest Dr #110,"1955 Sunnycrest Dr #110, FULLERTON, CA 92835"
+Source1-DouglasMaxwell-address-0,3,VALDOSTA,31602-1280,GA,2415 ANDOVER DR,"2415 ANDOVER DR, VALDOSTA, GA 31602-1280"
+Source1-DouglasMaxwell-address-1,3,VALDOSTA,31602-1280,GA,2415 ANDOVER DR,"2415 ANDOVER DR, VALDOSTA, GA 31602-1280"
